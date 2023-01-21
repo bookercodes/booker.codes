@@ -1,0 +1,137 @@
+---
+layout: layouts/home.njk
+eleventyNavigation:
+  key: Home
+  order: 1
+---
+
+<link rel="stylesheet" href="{{ '/css/home.css' | url }}">
+
+<div class="container">
+    <div class="hello">
+        <h1>Hi! I'm Alex.</h1>
+        <p>A <strong>content marketer who codes</strong> based in Shoreditch, East London.</p>
+    </div>
+    <div class="sexy-pic">
+        <img src="{{ '/img/me.jpg' | url }}" alt="Alex Booker">
+    </div>
+    <div class="about">
+        <p class="biig">I’m a full stack JavaScript developer that now works on marketing. Yes, that is right! I
+            turned to the
+            <span>dark side</span>.
+        </p>
+        <p>I work remotely at Scrimba where we’re building the future of online coding education. As Content Lead, I
+            am responsible for SEO content strategy and supporting the content team. I also make YouTube videos and
+            host The Scrimba Podcast.</p>
+        <p>Before Scrimba, I worked as a Marketing Lead at a seed stage API company called CometChat.</p>
+        <p>Before CometChat, I spent 2.5 years working as a Developer Advocate at another API company called Pusher.
+            We got acquired by MessageBird in 2020 🎉</p>
+        <p>For the last 6 years I have been building my skillset "getting the job done":</p>
+        <figure>
+            <img src="{{ '/img/skills.png' | url }}" alt="T">
+            <figcaption>I have a strong foundation in marketing and development but specialise in certain channels
+                This is a graphic by Buffer but I'll soon replace it with my own skills.</figcaption>
+        </figure>
+    </div>
+    <div class="about i-am-so-special">
+        <h2>Creating content developers love at scale is my speciality 🚀</h2>
+        <p class="biig">It must be the logical-thinking, bug-abhorring developer in me! I think about content
+            marketing like a well-oiled machine that consistently outputs creative content that moves the needle.
+        </p>
+        <p>Of course, if you start coding a big project without plan you might regret it. I like to think carefully
+            about what content we’re making, what the business impact will be, and how to get the absolute most out
+            of our efforts. </p>
+        <p>At the same time, experimentation keeps us learning and informs our next batch of plans.</p>
+    </div>
+    <div class="about selected-work-foo">
+        <h2>Selected Work ↘️️ ️</h2>
+        <p>Soon, you'll be able to hover to see my key accomplishments and click-through to case studies 🔑 </p>
+    </div>
+</div>
+<div class="selected-work">
+    <div>
+        <a href="work/scrimba-blog">
+        <h3>Scrimba blog 📝</h3>
+        <p>
+            How I launched a blog from scratch and generated 26,381 sessions in 6 months
+        </p>
+        </a>
+    </div>
+    <div>
+      <a href="work/scrimba-yt">
+        <h3>Scrimba YouTube 📷</h3>
+        <p>
+            How I kick-started Scrimba's YouTube and genrerated 34,629 views and 5,759 new subscribers in a year
+        </p>
+        </a>
+    </div>
+    <div>
+      <a href="work/scrimba-pod">
+        <h3>Scrimba Podcast 🎙️</h3>
+        <p>
+            Not missed a weekly episode in 60 weeks or 200,000 downloads, whichever you prefer!
+        </p>
+        </a>
+    </div>
+    <div>
+      <a href="work/sessions">
+        <h3>Pusher Sessions</h3>
+        <p>
+            A new project to film 20 meetup talks a month and publish them on a custom platform I coded
+        </p>
+      </a>
+    </div>
+    <div>
+      <a href="work/chatkit">
+        <h3>Pusher ChatKit</h3>
+        <p>
+            How I acquired 1000 new users a month for our new developer tool SDK product
+        </p>
+        </a>
+    </div>
+    <div>
+        <a href="work/comatchat-rebrand">
+        <h3>CometChat Pro landing page</h3>
+        <p>
+            Led the team to build a new CometChat website and reposition the product as a developer SDK in America
+        </p>
+        </a>
+    </div>
+</div>
+<div class="container">
+    <div class="about">
+        <p>Other work,</p>
+        <ul>
+            <li><a href="">Scrimba Discord bot</a></li>
+            <li><a href="">CometChat landing page</a></li>
+            <li><a href="">CometChat blog</a></li>
+            <li><a href="">Pusher TextSync</a></li>
+            <li><a href="">CodeCast YouTube channel</a></li>
+        </ul>
+    </div>
+
+    <div class="about be-my-friend-please">
+        <h2>I'm always up for a chat!</h2>
+        <p>Dropping a line to say hello, ask for my resume, or see if we can build something amazing together? I
+            would love to hear from you!</p>
+        <p>The best way to reach me is at <a class="email" href="mailto:booker@booker.codes">booker@booker.codes</a>
+        </p>
+        <p>Feeling social? I'm also on</p>
+        <ul>
+            <li><a href="https://twitter.com/bookercodes">The bird app</a></li>
+            <li><a href="https://www.linkedin.com/in/bookercodes/">LinkedIn</a></li>
+            <li><a href="https://instagram.com/bookercodes">Insta</a></li>
+            <li><a href="https://github.com/bookercodes">GitHub</a></li>
+            <li><a href="https://spotify.com">Spotify</a></li>
+            <li><a href="https://stackoverflow.com/users/5147646/alex-booker">Stack Overflow</a></li>
+        </ul>
+    </div>
+</div>
+{# {% set maxPosts = collections.posts.length | min(3) %}
+<h1>Latest {% if maxPosts == 1 %}Post{% else %}{{ maxPosts }} Posts{% endif %}</h1>
+
+{% set postslist = collections.posts | head(-3) %}
+{% set postslistCounter = collections.posts | length %}
+{% include "postslist.njk" %}
+
+<p>More posts can be found in <a href="{{ '/posts/' | url }}">the archive</a>.</p> #}
