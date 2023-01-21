@@ -89,7 +89,7 @@ figcaption {
 }
 .selected-work div a {
     display: block;
-    padding: 32px;
+    padding: 16px;
     text-decoration: none;
 }
 .selected-work h3 {
