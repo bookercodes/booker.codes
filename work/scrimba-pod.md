@@ -43,7 +43,7 @@ Later, I started interviewing experts and alternating every week:
 
 Now, at this point I had never made a podcast before but I knew I could figure that out. 
 
-In the early days, I recorded on my laptop microphone and edited the episode myself in Adobe Premiere. As I saw it, the challenge was tweaking the positioning. Eventually, I landed on a niche that resonated: 
+In the early days, I recorded on my laptop microphone and edited the episode myself in Adobe Premiere. The challenge with these things tends to be getting people to "tune in" and keep coming back. Eventually, I landed on a niche that seemed to resonate:
 
 > Hello, and welcome to the Scrimba Podcast. On this weekly show, I interview successful developers about their advice on how to learn to code and get a job. 
 
