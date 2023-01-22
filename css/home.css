@@ -85,7 +85,7 @@ figcaption {
 .selected-work div  {
    /* border: 2px blue solid; */
     /* box-shadow: rgb(0 0 0 / 10%) 0px 3px 8px 0px; */
-    border: 1px dashed var(--color-gray-20);
+    border: 2px dashed var(--color-gray-20);
 }
 .selected-work div a {
     display: block;
