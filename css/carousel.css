@@ -1,0 +1,32 @@
+.carousel button {
+    background: none;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .carousel-container {
+    max-width: 37.5em;
+  }
+  
+  .carousel {
+    display: flex;
+    gap: 16px;
+  }
+  
+  .carousel iframe {
+    display: none;
+  }
+  
+  .carousel iframe:first-of-type {
+    display: block;
+  }
+  
+  .carousel button svg {
+    width: 40px;
+    height: 40px;
+  }
+  
+  .arrow[disabled] svg {
+    opacity: 0.3;
+  }
+  

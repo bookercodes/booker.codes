@@ -59,6 +59,7 @@ p,
 .tmpl-post li {
   line-height: 1.45;
 }
+p img { width: 100%; }
 
 a[href] {
   color: var(--text-color-link);
