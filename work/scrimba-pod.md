@@ -7,7 +7,13 @@ layout: layouts/post.njk
 
 ![Scrimba podcast alt text](../../img/scrimba-pod-header.png)
 
+<div class="about-the-company">
+<img src="{{ '/img/scrimba-logo.png' | url }}" />
+<p>
 Scrimba is a coding course platform with over 120K monthly active students. It's based on a new video format that makes the screencasts fully interactive for students, and easier to create for teachers. 
+2019-Present
+</p>
+</div>
 
 [The Scrimba Podcast](https://scrimba.com/podcast) is a top-ranking technology podcast for aspiring techies and self-taught coders looking to transition into the tech industry. There are currently 100 episodes, generating 12,000+ downloads per month.
 

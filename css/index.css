@@ -259,3 +259,12 @@ a[href].direct-link:focus:visited,
 :hover > a[href].direct-link:visited {
   color: #aaa;
 }
+
+
+.about-the-company {
+  border: 3px orange solid;
+  max-width: 37.5em;
+  padding: 36px;
+  display: flex;
+  flex-direction: row;
+}
