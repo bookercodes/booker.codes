@@ -14,7 +14,7 @@
 
   --text-color: var(--color-gray-90);
   --text-color-link: #082840;
-  --text-color-link-visited: #17050F;
+  --text-color-link-visited: blue;
 }
 
 @media (prefers-color-scheme: dark) {
@@ -76,6 +76,9 @@ main :first-child {
 }
 header {
   border-bottom: 1px dashed var(--color-gray-20);
+  position: sticky;
+  top: 0;
+  background: hsl(0deg 0% 100%);
 }
 header:after {
   content: "";
