@@ -30,3 +30,25 @@
     opacity: 0.3;
   }
   
+
+  /* Other work page styles - will move */
+  .about-company {
+    border: 2px dashed hsl(0deg 0% 88%);
+    display: flex;
+    padding: 16px;
+    max-width: 37.5em;
+    gap: 16px;
+  }
+
+.about-company h2 {
+  margin: 0;
+}
+.about-company p {
+  margin: 0;
+}
+  
+  .about-company img {
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+  }

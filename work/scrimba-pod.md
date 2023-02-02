@@ -7,13 +7,14 @@ layout: layouts/post.njk
 
 ![Scrimba podcast alt text](../../img/scrimba-pod-header.png)
 
-<div class="about-the-company">
-<img src="{{ '/img/scrimba-logo.png' | url }}" />
-<p>
-Scrimba is a coding course platform with over 120K monthly active students. It's based on a new video format that makes the screencasts fully interactive for students, and easier to create for teachers. 
-2019-Present
+<section class="about-company">
+  <img src="{{ '/img/scrimba-logo.png' | url }}" />
+  <div>
+    <h2>Scrimba</h2>
+    <p>Scrimba is a coding course platform with over 120K monthly active students. It's based on a new video format that makes the screencasts fully interactive for students, and easier to create for teachers. 
 </p>
-</div>
+    </div>
+</section>
 
 [The Scrimba Podcast](https://scrimba.com/podcast) is a top-ranking technology podcast for aspiring techies and self-taught coders looking to transition into the tech industry. There are currently 100 episodes, generating 12,000+ downloads per month.
 
@@ -45,7 +46,18 @@ Here are some of my favourite episodes to give you a sense for what the podcast 
 </div>
 
 ## Key accomplishments
+
 I started the Scrimba Podcast from scratch in 2020. Here are the key acomplishments to date,
+
+1. Key acomplishment 1
+2. Key acomplishment 2
+3. Key acomplishment 3
+
+
+Stats:
+1. 100 episodes
+2.  14,000 downloads
+3.  99% retention
 
 - 🏆 100 episodes 
 - 🏆 12,000+ downloads a month
