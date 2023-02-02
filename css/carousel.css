@@ -33,7 +33,7 @@
 
   /* Other work page styles - will move */
   .about-company {
-    border: 2px dashed hsl(0deg 0% 88%);
+    border: 1px dashed hsl(0deg 0% 88%);
     display: flex;
     padding: 16px;
     max-width: 37.5em;
