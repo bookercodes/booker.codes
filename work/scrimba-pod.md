@@ -16,7 +16,7 @@ layout: layouts/post.njk
     </div>
 </section>
 
-[The Scrimba Podcast](https://scrimba.com/podcast) is a top-ranking technology podcast for aspiring techies and self-taught coders looking to transition into the tech industry. There are currently 100 episodes, generating 12,000+ downloads per month.
+[The Scrimba Podcast](https://scrimba.com/podcast) is a top-ranking technology podcast for aspiring techies and self-taught coders looking to transition into the tech industry. There are currently 100 episodes, generating 14,000+ downloads per month. The reach isn't just far, it's deep. Learner developers keep coming back for a weekly dose of inspiration and write in every week with touching messages about how the podcast changed their trajectory.
 
 🔗 Jump to [**case study & business impact**](#case-study)
 
@@ -47,20 +47,8 @@ Here are some of my favourite episodes to give you a sense for what the podcast 
 
 ## Key accomplishments
 
-I started the Scrimba Podcast from scratch in 2020. Here are the key acomplishments to date,
-
-1. Key acomplishment 1
-2. Key acomplishment 2
-3. Key acomplishment 3
-
-
-Stats:
-1. 100 episodes
-2.  14,000 downloads
-3.  99% retention
-
 - 🏆 100 episodes 
-- 🏆 12,000+ downloads a month
+- 🏆 14,000+ downloads a month
 - 🏆 Developed an engaging and evergreen format that keeps listeners coming back
 - 🏆 Create testimonials and success stories that inspire students to convert to Scrimba and stick around for longer
 - 🏆 Elevated Scrimba’s brand by positioning Scrimba alongside student’s favorite teachers and creators 
@@ -110,19 +98,27 @@ Once the podcast got some traction (around 400 downloads a month) and some posit
 
 Did you know? [70% of podcasts never make it past episode 10](https://podpros.com/5-main-reasons-podcasts-fail-and-how-you-can-overcome-each/#:~:text=There%20are%202.5%20million%20podcasts,in%20365%20days%20from%20now.).
 
-Bringing on an editor would allow us to publish consistently and make the podcast as good as it can be while I manage my other projects (you can read more about [how I reignited the Scrimba YouTube channel](https://booker.codes/work/scrimba-yt/).)
+Bringing on an editor would allow us to publish consistently and make the podcast as good as it can be while I worked on other projects in my role as Content Lead (you can read more about [how I reignited the Scrimba YouTube channel here](https://booker.codes/work/scrimba-yt/).)
 
-Jan and I collaborated closely to make the format as good as it can possibly be and develop a workflow:
+My editor, Jan, and I collaborated closely to make the format as good as it can possibly be and develop an efficient workflow:
 
 ![A company effort](../../img/scrimba-pod-format.png)
 
-We haven't missed a weekly episode in 70+ weeks are still going strong.
+We haven't missed a weekly episode in 70+ weeks are still going strong!
 
+
+### Achieving compounding returns with evergreen content 🌱
 Investing in an experienced podcast editor and evergreen content paid off in a big way 😃.
 
 Listeners are always telling us how they are listening through the backlog, and that is reflected in the analytics. In fact, **half our monthly downloads come from episodes published more than a month ago**. This compounding effect combined with the WoM we promote in the midroll has been one of two major drivers for listnership growth. 
 
-The other driver? Systematic content repurposing.
+![A company effort](../../img/scrimba-pod-compounding-effect.png)
 
+The first blog is an evergreen focused blog. Each post generates about 150 views on day one, and about 20 each subsequent day. Posts views decay according to a modest decay function, but still generate about 18 views per day a year later (this decay constant is based on this blog, but the figures are different.)
+
+The other driver of growth I mentioned? Systematic content repurposing.
+
+
+### Systematic content repurposing
 For every episode, I aim to prodcue a trailer, audiogram, quote graphic, and Twitter thread.
 <script src="{{ '/js/carousel.js' | url }}"></script>
