@@ -7,16 +7,9 @@ layout: layouts/post.njk
 
 ![Scrimba podcast alt text](../../img/scrimba-pod-header.png)
 
-<section class="about-company">
-  <img src="{{ '/img/scrimba-logo.png' | url }}" />
-  <div>
-    <h2>Scrimba</h2>
-    <p>Scrimba is a coding course platform with over 120K monthly active students. It's based on a new video format that makes the screencasts fully interactive for students, and easier to create for teachers. 
-</p>
-    </div>
-</section>
+Scrimba is a coding course platform with over 120K monthly active students. It's based on a new video format that makes the screencasts fully interactive for students, and easier to create for teachers.
 
-[The Scrimba Podcast](https://scrimba.com/podcast) is a top-ranking technology podcast for aspiring techies and self-taught coders looking to transition into the tech industry. There are currently 100 episodes, generating 14,000+ downloads per month. The reach isn't just far, it's deep. Learner developers keep coming back for a weekly dose of inspiration and write in every week with touching messages about how the podcast changed their trajectory.
+[The Scrimba Podcast](https://scrimba.com/podcast) is a top-ranking technology podcast for aspiring techies and self-taught coders looking to transition into the tech industry. There are currently 100 episodes, generating 14,000+ downloads per month. 
 
 🔗 Jump to [**case study & business impact**](#case-study)
 
