@@ -91,7 +91,7 @@ Once the podcast got some traction (around 400 downloads a month) and some posit
 
 Did you know? [70% of podcasts never make it past episode 10](https://podpros.com/5-main-reasons-podcasts-fail-and-how-you-can-overcome-each/#:~:text=There%20are%202.5%20million%20podcasts,in%20365%20days%20from%20now.).
 
-Bringing on an editor would allow us to publish consistently and make the podcast as good as it can be while I worked on other projects in my role as Content Lead (you can read more about [how I reignited the Scrimba YouTube channel here](https://booker.codes/work/scrimba-yt/).)
+Bringing on an editor would allow us to publish consistently and make the podcast as good as it can be while I worked on other projects in my role as Content Lead (you can read more about [how I reignited the Scrimba YouTube channel here](https://booker.codes/works/scrimba-yt/).)
 
 My editor, Jan, and I collaborated closely to make the format as good as it can possibly be and develop an efficient workflow:
 
