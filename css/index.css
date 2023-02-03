@@ -65,7 +65,7 @@ a[href] {
   color: var(--text-color);
 }
 a[href]:visited {
-  color: initial;
+  color: var(--text-color);
 }
 
 main {
@@ -78,7 +78,8 @@ header {
   border-bottom: 1px dashed var(--color-gray-20);
   position: sticky;
   top: 0;
-  background: hsl(0deg 0% 100%);
+  background: var(--background-color);
+  color: var(--text-color);
 }
 header:after {
   content: "";
