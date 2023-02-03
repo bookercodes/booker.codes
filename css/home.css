@@ -82,6 +82,16 @@ figcaption {
     margin: 50px auto;
     margin-bottom: 90px;
 }
+/* .selected-work a {
+  color: var(--color-gray-20);
+}
+.selected-work a[href] {
+  color: red;
+}
+.selected-work a[href]:visited {
+  color: initial;
+} */
+
 .selected-work div  {
    /* border: 2px blue solid; */
     /* box-shadow: rgb(0 0 0 / 10%) 0px 3px 8px 0px; */
