@@ -7,3 +7,12 @@ eleventyNavigation:
 ---
 
 <h1>Work</h1>
+{% set postslist = collections.works %}
+{% include "postslist.njk" %}
+
+{# <ul>
+
+{%- for work in collections.works -%}
+  <li>{{ work.data.title }}</li>
+{%- endfor -%}
+</ul> #}
