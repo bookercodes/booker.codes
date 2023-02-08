@@ -9,33 +9,31 @@ layout: layouts/post.njk
 
 Scrimba is a coding course platform with over 120K monthly active students. It's based on a new video format that makes the screencasts fully interactive for students, and easier to create for teachers.
 
-[The Scrimba blog](https://scrimba.com/articles) publishes guidance on how to learn to code and get your first web developer job. 
+[The Scrimba blog](https://scrimba.com/articles) publishes guidance on how to learn to code and get hired as a Junior web developer.
 
 🔗 Jump to [**case study & business impact**](#case-study)
 
-As Scrimba's first marketer, I launched the blog in June 2022. In the 8 months since, we have published more than 70 best-in-class posts and rank highly for keywords impactful to Scrimba's business. In January 2023, organic traffic grew 60% MoM compared to December 2022.
+As Scrimba's first marketer, I launched the blog in June 2022. In the 8 months since, we have published more than 70 best-in-class posts and rank highly for keywords impactful to Scrimba's business. In January 2023, organic traffic grew **+80%** MoM compared to December 2022.
 
-## Key accomplishments
+## Key accomplishments and responsibilities
 I started the Scrimba blog from scratch in 2022. Here are my key accomplishments to date,
 
-- 🏆 Write or edit 70 best-in-class posts enriched with custom illustrations, embedded videos, and interactive code examples
-- 🏆 Go viral on dev.to
-- 🏆 Establish team of freelance writers
-- 🏆 Develop robust processes around the content calendar
-- 🏆 Grow organic traffic 60% MoM
-
-## Responsibilities
+- 🏆 Oversaw the publication of 70 best-in-class posts enriched with custom illustrations, embedded videos, and interactive code examples
+- 🏆 Attained top-ranking positions for keywords highly relevant to Scrimba's business. Increased organic traffic 80% MoM
+- 🏆 Teamed up with an agency to successfully repurpose content for Twitter and LinkedIn. Increase traffic to the blog from social X% MoM
+- 🏆 Sourced and onboarded a team of talented and motivated SEO writers who are also technical 
+- 🏆 Collaborated with Scrimba's in-house designer to establish a distinct and eye-catching brand identity for the Scrimba blog. Adapted a template and launched the SEO-optimised blog
 
 As Content Lead, it's my responsibility to
 
 - Plan the strategic direction of our content efforts to reach thousands of learner developers a month through organic evergreen content
-- Research thoughtful outlines based on keyword data that target a range of keywords while still putting the searcher's problem first
-- Repurpose 100% of our content across LinkedIn and Twitter by extracting insights, quotes, and graphics
-- Syndicate all posts on industry-leading publications like Hashnode and dev.to and consistently make their newsletters
-- Collaborated with a designer to develop a recognizable brand for our post headers and custom illustrations
+- Monitor and measure key metrics and evaluate how content is performing, refreshing content when necessary
+- Research thoughtful outlines based on keyword data that target a range of keywords while still putting the searcher's problem first. Critically and effectively analyse the scope and potential business impact of new posts
+- Research and test new content formats and channels to increase brand awareness and attract new students to Scrimba's courses
+- Syndicate every bit of content on industry-leading publications like Hashnode and dev.to, and consistently make their newsletters
 - Cary out technical SEO improvements based on industry trends and updates from Google
-- Monitor and measure all SEO efforts, refreshing content when necessary
-- Adapt a template to code and deploy the Scrimba blog website myself
+- Hire, coordinate, and support freelance SEO writers who are also technical. Prooread, edit, and suggest improvements to their work
+
 
 ## Case study
 
@@ -46,25 +44,23 @@ As I huddled with students, I heard the same questions again and again (and agai
 - What programming language should I learn first?
 - How long will it take?
 - Should I learn React?
-- (More recently) Will AI like ChatGPT make programming redundant?
+- (More recently) Will AI like ChatGPT make programming redundant?!?
 
-Rather than answering every question one on one, I identified an **unfair advantage**:
+Rather than answer every question one on one, I identified Scrimba's **unfair advantage**:
 
-> Scrimba students are vocal about their problems. We can address these pre-validated topics with written content and reach new customers. 
+> Scrimba students are vocal about their problems. We can address these pre-validated topics with written content and reach new customers. Chances are, learners who haven't encountered Scrimba yet have the same queries!
 
-// graphic mapping repeated questions to actual posts
+![Scrimba blog alt text](../../img/scrimba-blog-questions-to-posts.png)
 
 It started with me researching and writing my own posts. Over time, I bought on freelance writers.
 
-8 months later, we are now ranking for some high-value keywords and are still climbing!
+8 months later, we are now ranking for some high-value keywords and still climbing!
 
-// some ahrefs illustration?
+![Scrimba blog alt text](../../img/scrimba-blog-graph.png)
 
 ## Scrimba's content strategy in 4 steps
 
-To understand my approach to content stratey, here are the 4 steps I took with Scrimba. I don't mind sharing it because success lies in the execution.
-
-🔗 **Need help with your content strategy? [Get in touch](mailto:booker@booker.codes)**
+To understand my approach to content stratey, here are the 4 steps I took with Scrimba. Honestly, it's not a secret! Every SEO knows success lies in the execution.
 
 1. Identify topic clusters impactful for the business
 2. Create high-caliber and engaging content
@@ -73,11 +69,15 @@ To understand my approach to content stratey, here are the 4 steps I took with S
 
 ### Identify topic clusters impactful to the business
 
-Scrimba has a bunch of courses covering a range of technologies. With such a broad range of courses, it could have been easy to write a bit about this,a bit about that, and spread ourselves thin. 
+Scrimba has a bunch of courses covering a range of technologies, from React and Angular to focused libraries like Tailwind. 
 
-Instead, I elected to focus on pillar pages and topic clusters I believed to be most relevant to Scrimba's business  
+With such a broad range of courses, it could have been easy to write a bit about this, a bit about that, and spread ourselves thin. 
 
-// graphic showing learn web development content pillar
+![Scrimba blog alt text](../../img/scrimba-blog-essentialism.png)
+
+Instead, I elected to focus on pillar pages and topic clusters I believed to be most relevant to Scrimba's business, such as `how to become a web developer` (1900):
+
+![Scrimba blog alt text](../../img/scrimba-blog-web-development-cluster.png)
 
 > **A lesson learned** Going back to the blog's origin story for a moment, a lot of learners asked, "how do I get a job?" 
 
@@ -85,22 +85,17 @@ Instead, I elected to focus on pillar pages and topic clusters I believed to be 
 
 > I learned leaners looking for career advice probably don't need a beginner course and were unlikely to convert. Besides, we were also competing with Indeed, GlassDoor, and other websites which Google perceive to be more authoratative on this subject. 
 
-> That's when I pivoted to the `learn web development` vertical, where the learning continued! 
+> That's when I pivoted to the `learn web development` vertical, where we achieved greater succes and the learning continues!
 
 ### Create high-caliber and engaging content
 
-Content around how to learn to code is competitive. 
+Content around how to learn to code is pretty darn competitive. 
 
-We aren't only competing with coding bootcamps, but with websites like HubSpot, who have cemented their authority on this subject over a decade as well.
+We aren't only competing with coding bootcamps, but with websites like W3Schools and HubSpot, who have cemented their authority on this subject over a decade. 
 
 To rank successfully, **our content has to more effectively satisfy the readers' needs** - it has to be more deeply researched, more visual, and more orientated around the learner web developer persona.
 
-How we achieve this is partly documented in the official [Scrimba style guide](https://scrimba.com) I wrote but here are some of the most important points.
-
-- Assure the reader of their problem 
-- Make the post easy to scan
-- Add interactive and rich embeds
-- Do not self-promote or be too indulgent 
+How we achieve this is partly documented in the official [Scrimba style guide](https://www.notion.so/Style-guide-5223ffc0d7624779942d8bada50e10f7) and reflected in the posts.
 
 ### On-page technical SEO optimizations
  
@@ -109,33 +104,36 @@ From a technical perspective, it is my responsibility to ensure the Scrimba blog
 
 Additionally, I sought opportunities to improve our chance of ranking through technical SEO tactics: 
 
-- I added writer bios to improve EAT
-- Edited posts to answer questions in an NLP-friendly way, giving us a better chance to rank in a featured SERP
-- Wrote summaries
-- Compressed images and made sure they had keyword-friendly file names and helpful alt text
+- Write answers in an NLP-friendly way, giving us a better chance to rank in a featured SERP
+- Compress images and made sure they had keyword-friendly file names and helpful alt text
 
-There's more to share, but I am still mastering technical SEO. Please [get in touch](mailto:booker@booker.codes) if you'd like to geek out about it with me! 
+And there you have it!
 
-> **Believe it or not**, Scrimba didn't have a blog when I joined.
+> **Believe it or not** Scrimba didn't have a blog when I joined!
 
-> I spun up an EC2 instance with Ghost, adapted a CSS template to match the Scrimba brand and setup tracking.
+> I spun up a Digital Ocean droplet with Ghost, adapted a CSS template to match the Scrimba brand and setup tracking.
 
-> The nice thing about knowing how to code is that I've never had to ask for help installing GTM 😅!
+> The nice thing about knowing how to code is that haven't needed help installing Google Tag Manager yet 😅!
 
 ### Content refresh
-It's the nature of the web. Even in the short 8 months I've been working on the blog, competitors have seen and one-upping it. Search intent can also change, so content we wrote 8 months ago might not be in the right format for today. 
+When I set out to write a new post, I must confess - I look at posts competing for the same keyword to one up them.
+
+The funny thing is, when our content starts to rank, they will one up us yet. It's the nature of the web.
+
+Search intent can also change, so content we wrote 8 months ago might not be in the right format for today. 
 
 As part of my responsibility as Content Lead, I monitor and measure all SEO efforts, refreshing content when necessary.
 
 And that's about it! Those are the 4 steps to creating a top-ranking blog. Well, in _theory_ anyway. Success lies in the execution!
 
 ## Scaling the process
-With a solid content strategy and some key learnings under my belt, I sought help from freelance writers in my network and moved into an editorial-type role. 
+With a solid content strategy and some key learnings under my belt, I sought help from freelance writers in my network and gradually moved into an editorial-type role. 
 
-// illustration of avatar in middle and freelancers I worked with revolving around me
 
+![Scrimba blog alt text](../../img/scrimba-blog-team.png)
 I created an editorial process revolving around a Notion kanban board:
 
+![Scrimba blog alt text](../../img/scrimba-blog-content-tracker.png)
 I also wrote and maintained a style guide, moving it forward with every revision. I try not to share the same feedback twice and update the style guide instead.
 
 At the time of writing, I am in the process of supporting our most experienced writers to complete peer reviews. 
