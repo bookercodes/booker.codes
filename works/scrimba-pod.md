@@ -38,18 +38,22 @@ Here are some of my favourite episodes to give you a sense for what the podcast 
   </div>
 </div>
 
-## Key accomplishments
-
+## Key accomplishments and responsibilities
+I started the Scrimba podcast from scratch in 2020. Here are my key accomplishments to date,
+ 
 - 🏆 100 episodes 
 - 🏆 14,000+ downloads a month
 - 🏆 Developed an engaging and evergreen format that keeps listeners coming back
 - 🏆 Create testimonials and success stories that inspire students to convert to Scrimba and stick around for longer
 - 🏆 Elevated Scrimba’s brand by positioning Scrimba alongside student’s favorite teachers and creators 
-- 🏆 Source my own guests and build relationships with them
 - 🏆 Hire and collaborate with a Senior podcast editor and producer
 - 🏆 Developed a content repurposing strategy to remix recordings into social media posts and clips that go viral
 - 🏆 Adapt a template to code and deploy the Scrimba Podcast website myself
-- 🏆 Make newly-hired students who have never been on a podcast before feel comfortable and bring out the best in them
+
+As Content Lead and Host of the Scrimba Podcast, it's my responsibility to:
+
+-  Make newly-hired students who have never been on a podcast before feel comfortable and bring out the best in them
+- Source my own guests and build relationships with them
 
 ## Case study
 When it comes to learning how to code, students are spoiled for choice. Great for students really! But for a coding course platform like [Scrimba](https://scrimba.com), it can be tricky to keep students subscribed and manage churn.
