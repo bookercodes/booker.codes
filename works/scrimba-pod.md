@@ -7,11 +7,9 @@ layout: layouts/post.njk
 
 ![Scrimba podcast alt text](../../img/scrimba-pod-header.png)
 
-Scrimba is a coding course platform with over 120K monthly active students. It's based on a new video format that makes the screencasts fully interactive for students, and easier to create for teachers.
+Scrimba (YC S20) is a coding course platform with over 120K monthly active students. It's based on a new video format that makes the screencasts fully interactive for students, and easier to create for teachers.
 
-[The Scrimba Podcast](https://scrimba.com/podcast) is a top-ranking technology podcast for aspiring techies and self-taught coders looking to transition into the tech industry. There are currently 100 episodes, generating 14,000+ downloads per month. 
-
-🔗 Jump to [**case study & business impact**](#case-study)
+[The Scrimba Podcast](https://scrimba.com/podcast) is a top-ranking technology podcast for aspiring techies and self-taught coders looking to transition into tech. There are currently 103 episodes, generating 14,000+ downloads per month.  
 
 Here are some of my favourite episodes to give you a sense for what the podcast is all about,
 
@@ -38,22 +36,23 @@ Here are some of my favourite episodes to give you a sense for what the podcast 
   </div>
 </div>
 
-## Key accomplishments and responsibilities
+## Key accomplishments & responsibilities
 I started the Scrimba podcast from scratch in 2020. Here are my key accomplishments to date,
  
-- 🏆 100 episodes 
+- 🏆 103 episodes 
 - 🏆 14,000+ downloads a month
 - 🏆 Developed an engaging and evergreen format that keeps listeners coming back
-- 🏆 Create testimonials and success stories that inspire students to convert to Scrimba and stick around for longer
+- 🏆 Record Scrimba success stories that inspire students to convert to Scrimba and stick around for longer
 - 🏆 Elevated Scrimba’s brand by positioning Scrimba alongside student’s favorite teachers and creators 
-- 🏆 Hire and collaborate with a Senior podcast editor and producer
-- 🏆 Developed a content repurposing strategy to remix recordings into social media posts and clips that go viral
+- 🏆 Hire and collaborate with a senior-level editor and producer
+- 🏆 Developed a content repurposing strategy to remix recordings into short-form content for social media
 - 🏆 Adapt a template to code and deploy the Scrimba Podcast website myself
 
-As Content Lead and Host of the Scrimba Podcast, it's my responsibility to:
+In my role as Content Lead and Host of the Scrimba Podcast, it's my responsibility to:
 
--  Make newly-hired students who have never been on a podcast before feel comfortable and bring out the best in them
-- Source my own guests and build relationships with them
+- Publish an episode every week without fail (haven't missed a week in 89 weeks)
+- Source and reach out to my own guests
+- Make newly-hired students who have never been on a podcast before feel comfortable and bring out the best in them
 
 ## Case study
 When it comes to learning how to code, students are spoiled for choice. Great for students really! But for a coding course platform like [Scrimba](https://scrimba.com), it can be tricky to keep students subscribed and manage churn.
@@ -62,7 +61,7 @@ When I joined Scrimba in 2020, Per (Scrimba CEO and co-founder) and I collaborat
 
 ![A company effort](../../img/scrimba-pod-msg-from-per.png)
 
-After running a few experiments, I learned Scrimba students are more than willing to jump on a call, share their learnings, and probably rave about their experience with Scrimba a little bit 🕺🏻. **We could record those conversations and publish them as a podcast!**
+After running several experiments, I learned Scrimba students are more than willing to jump on a call, share their learnings, and probably rave about their experience with Scrimba a little bit 🕺🏻. **We could record those conversations as success stories and publish them as a podcast!**
 
 The hypothesis went something like this,
 
@@ -88,10 +87,12 @@ For the first few episode, I recorded using my laptop microphone and edited the 
 
 I don't think it was up to NPRs standards 😅, but it was _good enough_ to start learning and iterating on the positioning of the podcast:
 
-> Hello, and welcome to the Scrimba Podcast! On this weekly show, I interview successful developers about their advice on how to learn to code and get a job. 
 
-### Creating a systematic process
-Once the podcast got some traction (around 400 downloads a month) and some positive feedback, I proposed we hire an experienced editor. 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ojvIoO_Cn6g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+### Hiring an editor
+Once the podcast got some traction and positive feedback, I proposed we hire an experienced editor. 
 
 Did you know? [70% of podcasts never make it past episode 10](https://podpros.com/5-main-reasons-podcasts-fail-and-how-you-can-overcome-each/#:~:text=There%20are%202.5%20million%20podcasts,in%20365%20days%20from%20now.).
 
@@ -101,21 +102,16 @@ My editor, Jan, and I collaborated closely to make the format as good as it can 
 
 ![A company effort](../../img/scrimba-pod-format.png)
 
-We haven't missed a weekly episode in 70+ weeks are still going strong!
+We haven't missed a weekly episode in 89+ weeks are still going strong!
 
 
-### Achieving compounding returns with evergreen content 🌱
-Investing in an experienced podcast editor and evergreen content paid off in a big way 😃.
+### Compounding effects of evergreen content 🌱
+Early on, we made a calculated decision to produce high quality and (hopefully) evergreen episodes. Investing in quality like this has paid off in a big way 😃.
 
-Listeners are always telling us how they are listening through the backlog, and that is reflected in the analytics. In fact, **half our monthly downloads come from episodes published more than a month ago**. This compounding effect combined with the WoM we promote in the midroll has been one of two major drivers for listnership growth. 
+Listeners are always telling us how they're listening through the backlog, and that is supported by our analytics. 
 
-![A company effort](../../img/scrimba-pod-compounding-effect.png)
+In fact, **half our monthly downloads come from episodes published more than a month ago**. This compounding effect combined with WoM has been one of two major drivers for listnership growth. 
 
-The first blog is an evergreen focused blog. Each post generates about 150 views on day one, and about 20 each subsequent day. Posts views decay according to a modest decay function, but still generate about 18 views per day a year later (this decay constant is based on this blog, but the figures are different.)
+The other driver of growth? Systematic content repurposing.
 
-The other driver of growth I mentioned? Systematic content repurposing.
-
-
-### Systematic content repurposing
-For every episode, I aim to prodcue a trailer, audiogram, quote graphic, and Twitter thread.
-<script src="{{ '/js/carousel.js' | url }}"></script>
+Let's take a closer look at how we leverage social media to grow the podcast.
