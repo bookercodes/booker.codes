@@ -85,7 +85,7 @@ For the first few episode, I recorded using my laptop microphone and edited the 
 ![A company effort](../../img/scrimba-pod-timeline.png)
 
 
-I don't think it was up to NPRs standards 😅, but it was _good enough_ to start learning and iterating on the positioning of the podcast.
+I don't think it was up to NPRs standards 😅! But it was _good enough_ to start learning and iterating on the positioning of the podcast.
 
 A few months later, we arrived at a podcast elevator pitch and format that hooks our listeners:
 
@@ -94,7 +94,7 @@ A few months later, we arrived at a podcast elevator pitch and format that hooks
 ### Hiring an editor
 Once the podcast got some traction and positive feedback, I proposed that we hire an experienced podcast editor. 
 
-Did you know? [83% of podcasts stop uploading](https://podpros.com/5-main-reasons-podcasts-fail-and-how-you-can-overcome-each/#:~:text=There%20are%202.5%20million%20podcasts,in%20365%20days%20from%20now.).
+Did you know? [83% of podcasts stop uploading](https://podpros.com/5-main-reasons-podcasts-fail-and-how-you-can-overcome-each/#:~:text=There%20are%202.5%20million%20podcasts,in%20365%20days%20from%20now.) whereas the Scrimba podcast hasn't missed a week in over a year and is still going strong.
 
 Bringing on an editor would allow us to publish consistently and make the podcast as good as it can be while I worked on other projects in my role as Content Lead (you can read more about [how I reignited the Scrimba YouTube channel here](https://booker.codes/works/scrimba-yt/).)
 
