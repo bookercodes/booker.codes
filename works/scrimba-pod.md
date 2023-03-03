@@ -61,7 +61,7 @@ When I joined Scrimba in 2020, Per (Scrimba CEO and co-founder) and I collaborat
 
 ![A company effort](../../img/scrimba-pod-msg-from-per.png)
 
-After running several experiments, I learned Scrimba students are more than willing to jump on a call, share their learnings, and probably rave about their experience with Scrimba a little bit 🕺🏻. **We could record those conversations as success stories and publish them as a podcast!**
+After running several experiments, I learned Scrimba students are more than willing to jump on a call, share their learnings, and probably rave about their experience with Scrimba a little bit 🕺🏻. That's when the epithany hit. **We could record those conversations as success stories and publish them as a podcast!**
 
 The hypothesis went something like this,
 
