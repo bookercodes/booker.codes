@@ -106,7 +106,7 @@ We haven't missed a weekly episode in 89+ weeks are still going strong!
 
 
 ### Compounding effects of evergreen content 🌱
-Early on, we made a calculated decision to produce high quality and (hopefully) evergreen episodes. Investing in quality like this has paid off in a big way because of the ways evergreen content compounds.
+Early on, we made a calculated decision to produce high quality and evergreen episodes. This wasn't cheap. And it sometimes meant saying "no" to really interesting guests ready to talk on timely topics. This discpline of "niching down to blow up" has paid off in a big way, though.
 
 Listeners are always telling us how they're listening through the backlog, and that is reflected in our analytics as well.  In fact, **half our monthly downloads come from episodes published more than a month ago**. 
 
@@ -114,4 +114,4 @@ This compounding effect combined with WoM has been one of two major drivers for 
 
 The other driver of growth? Systematic content repurposing.
 
-Let's take a closer look at how we leverage social media to grow the podcast.
+Let's take a closer look at how we leverage social media and shortform content to reach new listeners.
