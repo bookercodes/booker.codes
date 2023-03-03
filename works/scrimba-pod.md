@@ -85,14 +85,16 @@ For the first few episode, I recorded using my laptop microphone and edited the 
 ![A company effort](../../img/scrimba-pod-timeline.png)
 
 
-I don't think it was up to NPRs standards 😅, but it was _good enough_ to start learning and iterating on the positioning of the podcast. A few months later, we arrived at a format that piques our listeners:
+I don't think it was up to NPRs standards 😅, but it was _good enough_ to start learning and iterating on the positioning of the podcast.
+
+A few months later, we arrived at a podcast elevator pitch and format that hooks our listeners:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ojvIoO_Cn6g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ### Hiring an editor
-Once the podcast got some traction and positive feedback, I proposed we hire an experienced editor. 
+Once the podcast got some traction and positive feedback, I proposed that we hire an experienced podcast editor. 
 
-Did you know? [70% of podcasts never make it past episode 10](https://podpros.com/5-main-reasons-podcasts-fail-and-how-you-can-overcome-each/#:~:text=There%20are%202.5%20million%20podcasts,in%20365%20days%20from%20now.).
+Did you know? [83% of podcasts stop uploading](https://podpros.com/5-main-reasons-podcasts-fail-and-how-you-can-overcome-each/#:~:text=There%20are%202.5%20million%20podcasts,in%20365%20days%20from%20now.).
 
 Bringing on an editor would allow us to publish consistently and make the podcast as good as it can be while I worked on other projects in my role as Content Lead (you can read more about [how I reignited the Scrimba YouTube channel here](https://booker.codes/works/scrimba-yt/).)
 
@@ -104,11 +106,11 @@ We haven't missed a weekly episode in 89+ weeks are still going strong!
 
 
 ### Compounding effects of evergreen content 🌱
-Early on, we made a calculated decision to produce high quality and (hopefully) evergreen episodes. Investing in quality like this has paid off in a big way 😃.
+Early on, we made a calculated decision to produce high quality and (hopefully) evergreen episodes. Investing in quality like this has paid off in a big way because of the ways evergreen content compounds.
 
-Listeners are always telling us how they're listening through the backlog, and that is supported by our analytics. 
+Listeners are always telling us how they're listening through the backlog, and that is reflected in our analytics as well.  In fact, **half our monthly downloads come from episodes published more than a month ago**. 
 
-In fact, **half our monthly downloads come from episodes published more than a month ago**. This compounding effect combined with WoM has been one of two major drivers for listnership growth. 
+This compounding effect combined with WoM has been one of two major drivers for listnership growth. 
 
 The other driver of growth? Systematic content repurposing.
 
