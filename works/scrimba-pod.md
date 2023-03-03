@@ -57,7 +57,7 @@ In my role as Content Lead and Host of the Scrimba Podcast, it's my responsibili
 ## Case study
 When it comes to learning how to code, students are spoiled for choice. Great for students really! But for a coding course platform like [Scrimba](https://scrimba.com), it can be tricky to keep students subscribed and manage churn.
 
-When I joined Scrimba in 2020, Per (Scrimba CEO and co-founder) and I collaborated on a series of experiments to identify high impact initiatives to create a lively community and reduce churn.
+When I joined Scrimba in 2020, Per (Scrimba CEO and co-founder) and I collaborated on a series of experiments to identify high impact initiatives to keep students engaged and reduce churn.
 
 ![A company effort](../../img/scrimba-pod-msg-from-per.png)
 
@@ -85,9 +85,7 @@ For the first few episode, I recorded using my laptop microphone and edited the 
 ![A company effort](../../img/scrimba-pod-timeline.png)
 
 
-I don't think it was up to NPRs standards 😅, but it was _good enough_ to start learning and iterating on the positioning of the podcast:
-
-
+I don't think it was up to NPRs standards 😅, but it was _good enough_ to start learning and iterating on the positioning of the podcast. A few months later, we arrived at a format that piques our listeners:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ojvIoO_Cn6g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
