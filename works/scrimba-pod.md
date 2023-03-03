@@ -11,7 +11,7 @@ Scrimba (YC S20) is a coding course platform with over 120K monthly active stude
 
 [The Scrimba Podcast](https://scrimba.com/podcast) is a top-ranking technology podcast for aspiring coders looking to transition into tech. At the time of this writing, there are currently 103 episodes, generating 14,000+ downloads per month.  
 
-Here are some of my favourite episodes to give you a sense for what the podcast is all about,
+Here are some of my favourite episodes to give you a sense for what the show is all about. One week I interview a recently-hired Scrimba student. The next week, I interview an experienced professional about their career advice:
 
 <link rel="stylesheet" href="{{ '/css/carousel.css' | url }}">
 <div class="carousel-container">
