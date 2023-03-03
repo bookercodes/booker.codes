@@ -11,9 +11,7 @@ Scrimba is a coding course platform with over 120K monthly active students. It's
 
 [The Scrimba blog](https://scrimba.com/articles) publishes guidance on how to learn to code and get hired as a Junior web developer.
 
-🔗 Jump to [**case study & business impact**](#case-study)
-
-As Scrimba's first marketer, I launched the blog in June 2022. In the 8 months since, we have published more than 70 best-in-class posts and rank highly for keywords impactful to Scrimba's business. In January 2023, organic traffic grew **+80%** MoM compared to December 2022.
+In my role as Content Lead, I launched the blog in June 2022. In the 8 months since, we have published more than 70 best-in-class posts and rank highly for keywords impactful to Scrimba's business. In January 2023, organic traffic grew **+80%** MoM compared to December 2022.
 
 ## Key accomplishments and responsibilities
 I started the Scrimba blog from scratch in 2022. Here are my key accomplishments to date,
@@ -48,7 +46,7 @@ As I huddled with students, I heard the same questions again and again (and agai
 
 Rather than answer every question one on one, I identified Scrimba's **unfair advantage**:
 
-> Scrimba students are vocal about their problems. We can address these pre-validated topics with written content and reach new customers. Chances are, learners who haven't encountered Scrimba yet have the same queries!
+> Scrimba students are vocal about their problems. We can address these pre-validated topics with written content. Chances are, learners who haven't encountered Scrimba yet have the same queries! We can reach new customers.
 
 ![Scrimba blog alt text](../../img/scrimba-blog-questions-to-posts.png)
 
@@ -83,13 +81,13 @@ Instead, I elected to focus on pillar pages and topic clusters I believed to be 
 
 > We created a lot of content around this topic, but it did not convert very well. Why?
 
-> I learned leaners looking for career advice probably don't need a beginner course and were unlikely to convert. Besides, we were also competing with Indeed, GlassDoor, and other websites which Google perceive to be more authoratative on this subject. 
+> I learned leaners looking for career advice probably don't need a beginner course and were unlikely to convert. Besides, we were also competing with Indeed, GlassDoor, and other websites which better data story telling and who Google perceive to be more authoratative on this subject. It would be better to focus on our advantages.
 
 > That's when I pivoted to the `learn web development` vertical, where we achieved greater succes and the learning continues!
 
 ### Create high-caliber and engaging content
 
-Content around how to learn to code is pretty darn competitive. 
+Content around how to learn to code is pretty darn competitive. Not "how to lose weight" competitive, but competitive nonetheless.
 
 We aren't only competing with coding bootcamps, but with websites like W3Schools and HubSpot, who have cemented their authority on this subject over a decade. 
 
@@ -118,9 +116,7 @@ And there you have it!
 ### Content refresh
 When I set out to write a new post, I must confess - I look at posts competing for the same keyword to one up them.
 
-The funny thing is, when our content starts to rank, they will one up us yet. It's the nature of the web.
-
-Search intent can also change, so content we wrote 8 months ago might not be in the right format for today. 
+The funny thing is, when our content starts to rank, they will one up us yet. It's the nature of the web and SEO. Search intent can also change, so content we wrote 8 months ago might not be in the right format for today. 
 
 As part of my responsibility as Content Lead, I monitor and measure all SEO efforts, refreshing content when necessary.
 
