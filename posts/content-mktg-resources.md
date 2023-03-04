@@ -1,0 +1,14 @@
+---
+title: Content marketing resources
+description: Content marketing resources
+date: 2023-03-04
+layout: layouts/post.njk
+---
+
+
+## Content marketing strategies
+- [Central data-driven asset strategy](https://www.linkedin.com/posts/markrogers88_one-of-my-favorite-content-strategies-is-activity-7033440744690384897-YaZy/?utm_source=share&utm_medium=member_ios)
+- [Content marketing hierarchy by Jacalyn Beales](https://www.linkedin.com/posts/jacalynbeales_content-marketing-hierarchy-to-10x-your-strategy-ugcPost-7028401685291040768-aCtP/?utm_source=share&utm_medium=member_desktop)
+
+## Backlink building
+- [Skyscraper technique by Brian Dean](https://backlinko.com/skyscraper-technique)
