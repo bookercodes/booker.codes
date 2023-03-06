@@ -45,12 +45,12 @@ I started the Scrimba podcast from scratch in 2020. Here are my key accomplishme
 - 🏆 Record Scrimba success stories that inspire students to convert to Scrimba and stick around for longer
 - 🏆 Elevated Scrimba’s brand by positioning Scrimba alongside student’s favorite teachers and creators 
 - 🏆 Hire and collaborate with a senior-level editor and producer
-- 🏆 Developed a content repurposing strategy to remix recordings into short-form content for social media
+- 🏆 Developed a content repurposing strategy to remix recordings into short-form social media content
 - 🏆 Adapt a template to code and deploy the Scrimba Podcast website myself
 
-In my role as Content Lead and Host of the Scrimba Podcast, it's my responsibility to:
+In my role as Content Lead, it's my responsibility to:
 
-- Publish an episode every week without fail (haven't missed a week in 89 weeks)
+- Publish an episode every week (haven't missed a week in 89+ weeks)
 - Source and reach out to my own guests
 - Make newly-hired students who have never been on a podcast before feel comfortable and bring out the best in them
 
@@ -94,9 +94,9 @@ A few months later, we arrived at a podcast elevator pitch and format that hooks
 ### Hiring an editor
 Once the podcast got some traction and positive feedback, I proposed that we hire an experienced podcast editor. 
 
-Did you know? [83% of podcasts stop uploading](https://podpros.com/5-main-reasons-podcasts-fail-and-how-you-can-overcome-each/#:~:text=There%20are%202.5%20million%20podcasts,in%20365%20days%20from%20now.) whereas the Scrimba podcast hasn't missed a week in over a year and is still going strong.
+Did you know? [83% of podcasts eventually stop uploading and die](https://podpros.com/5-main-reasons-podcasts-fail-and-how-you-can-overcome-each/#:~:text=There%20are%202.5%20million%20podcasts,in%20365%20days%20from%20now.) whereas the Scrimba podcast hasn't missed a week in over a year and is still going strong.
 
-Bringing on an editor would allow us to publish consistently and make the podcast as good as it can be while I worked on other projects in my role as Content Lead (you can read more about [how I reignited the Scrimba YouTube channel here](https://booker.codes/works/scrimba-yt/).)
+Bringing on an editor allowed us to publish consistently and make the podcast as good as it can be while I worked on other projects in my role as Content Lead (you can read more about [how I reignited the Scrimba YouTube channel here](https://booker.codes/works/scrimba-yt/).)
 
 My editor, Jan, and I collaborated closely to make the format as good as it can possibly be and develop an efficient workflow:
 
@@ -104,14 +104,22 @@ My editor, Jan, and I collaborated closely to make the format as good as it can 
 
 We haven't missed a weekly episode in 89+ weeks are still going strong!
 
-
 ### Compounding effects of evergreen content 🌱
-Early on, we made a calculated decision to produce high quality and evergreen episodes. This wasn't cheap. And it sometimes meant saying "no" to really interesting guests ready to talk on timely topics. This discpline of "niching down to blow up" has paid off in a big way, though.
+When we publish an episode of the Scrimba podcast, we aim to produce something that will still be relevant and interesting a year or more later. This commitment to evergreen topics and production quality has paid off in a big way.  
 
-Listeners are always telling us how they're listening through the backlog, and that is reflected in our analytics as well.  In fact, **half our monthly downloads come from episodes published more than a month ago**. 
+Listeners often post on Twitter to tell us they are working their way through the backlog. The same trend is reflected in our analytics. In fact, **half** our monthly downloads come from episodes published more than a month ago. 
 
-This compounding effect combined with WoM has been one of two major drivers for listnership growth. 
+This compounding effect has been one of two major drivers for listnership growth. 
 
 The other driver of growth? Systematic content repurposing.
 
-Let's take a closer look at how we leverage social media and shortform content to reach new listeners.
+Let's take a closer look at how we leverage social media and shortform content to reach new listeners every month.
+
+### Repurposing
+For each episode, we comb through the transcript for the best moments and repurpose them into short form content such as clips, quotes, threads, or LinkedIn carousels:
+
+![A company effort](../../img/scrimba-pod-repurposing.png)
+
+Although we might share the same insight on differnet platforms, it's imperative we get the angle right. A great thread might not make a great LinkedIn carousel and so on.
+
+![A company effort](../../img/scrimba-pod-thread.png)
