@@ -352,6 +352,7 @@ h1,h2 {
   .post-container {
     flex-direction: column;
   }
+  .post-content { width: 100%; padding-right: 0; }
 
   .post-aside {
     font-size: .8em;
