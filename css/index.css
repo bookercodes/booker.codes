@@ -348,6 +348,10 @@ h1,h2 {
   padding-right: 32px;
 }
 
+.post-content h2, h3 {
+  scroll-margin-top: 80px;
+}
+
 @media only screen and (max-width: 900px) {
   .post-container {
     flex-direction: column;
