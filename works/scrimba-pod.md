@@ -1,6 +1,7 @@
 ---
 title: Scrimba Podcast
 description: Scrimba Podcast
+toc: true
 date: 2023-01-07
 layout: layouts/post.njk
 ---
@@ -12,29 +13,6 @@ Scrimba (YC S20) is a coding course platform with over 120K monthly active stude
 [The Scrimba Podcast](https://scrimba.com/podcast) is a top-ranking technology podcast for aspiring coders looking to transition into tech. At the time of this writing, there are currently 103 episodes, generating **14,000+ downloads per month**.  
 
 Here are some of my favourite episodes to give you a sense for what the show is all about. One week I interview a recently-hired Scrimba student. The next week, I interview an experienced professional about their career advice:
-
-<link rel="stylesheet" href="{{ '/css/carousel.css' | url }}">
-<div class="carousel-container">
-  <div class="carousel">
-    <button class="arrow" id="carousel-prev-btn" disabled>
-      <svg viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-        <path d="M12 22C17.5228 22 22 17.5228 22 12C22 6.47715 17.5228 2 12 2C6.47715 2 2 6.47715 2 12C2 17.5228 6.47715 22 12 22Z" stroke="#292D32" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
-        <path d="M15.5 12H9.5" stroke="#292D32" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
-        <path d="M11.5 9L8.5 12L11.5 15" stroke="#292D32" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
-      </svg>
-    </button>
-    <iframe width="100%" height="180" frameborder="no" scrolling="no" seamless src="https://share.transistor.fm/e/945ec082"></iframe>
-    <iframe width="100%" height="180" frameborder="no" scrolling="no" seamless src="https://share.transistor.fm/e/6bc38718"></iframe>
-    <iframe width="100%" height="180" frameborder="no" scrolling="no" seamless src="https://share.transistor.fm/e/459dca35"></iframe>
-    <button class="arrow" id="carousel-next-btn">
-      <svg width="800px" height="800px" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-        <path d="M12 22C17.5228 22 22 17.5228 22 12C22 6.47715 17.5228 2 12 2C6.47715 2 2 6.47715 2 12C2 17.5228 6.47715 22 12 22Z" stroke="#292D32" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
-        <path d="M8.5 12H14.5" stroke="#292D32" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
-        <path d="M12.5 15L15.5 12L12.5 9" stroke="#292D32" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
-      </svg>
-    </button>
-  </div>
-</div>
 
 ## Key accomplishments & responsibilities
 I started the Scrimba podcast from scratch in 2020. Here are my key accomplishments to date,
@@ -94,7 +72,7 @@ A few months later, we arrived at a podcast elevator pitch and format that hooks
 ### Hiring an editor
 Once the podcast got some traction and positive feedback, I proposed that we hire an experienced podcast editor. 
 
-Did you know? [83% of podcasts eventually stop uploading and die](https://podpros.com/5-main-reasons-podcasts-fail-and-how-you-can-overcome-each/#:~:text=There%20are%202.5%20million%20podcasts,in%20365%20days%20from%20now.) whereas the Scrimba podcast hasn't missed a week in over a year and is still going strong.
+Did you know? [83% of podcasts eventually stop uploading and die out](https://podpros.com/5-main-reasons-podcasts-fail-and-how-you-can-overcome-each/#:~:text=There%20are%202.5%20million%20podcasts,in%20365%20days%20from%20now.), whereas the Scrimba podcast hasn't missed a week in over a year and is still going strong.
 
 Bringing on an editor allowed us to publish consistently and make the podcast as good as it can be while I worked on other projects in my role as Content Lead (you can read more about [how I reignited the Scrimba YouTube channel here](https://booker.codes/works/scrimba-yt/).)
 

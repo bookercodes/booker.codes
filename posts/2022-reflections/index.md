@@ -2,6 +2,7 @@
 title: 2022 Reflections
 description: Some highlights and things I liked in 2022
 date: 2023-01-07
+toc: true
 layout: layouts/post.njk
 ---
 

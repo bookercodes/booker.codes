@@ -2,6 +2,7 @@
 title: Scrimba Blog
 description: Scrimba Blog
 date: 2023-01-07
+toc: true;
 layout: layouts/post.njk
 ---
 
@@ -87,7 +88,7 @@ Here's one example of from the Scrimba blog:
 
 > Scrimba mainly offer beginner courses. I learned leaners at this stage don't need beginner courses and were unlikely to convert.
 
-> Besides, we were competing with Indeed, GlassDoor, and other websites who have much better data and stories to tell around these subjects. 
+> Besides, we were competing with Indeed, GlassDoor, and other websites who have much better data and stories to tell around these subjects instead of focusing on our own advantages.
 
 > That's when I pivoted to the `learn web development` vertical, where we address questions learners have at the _beginning_ of their journey.
 
@@ -99,9 +100,11 @@ We aren't only competing with coding bootcamps, but with websites like W3Schools
 
 To rank successfully, **our content has to more effectively satisfy the readers' needs** - it has to be more deeply researched, more visual, and more orientated around the learner web developer persona.
 
-How we achieve this is partly documented in the official [Scrimba style guide](https://www.notion.so/Style-guide-5223ffc0d7624779942d8bada50e10f7) and reflected in the posts.
+How we achieve this is partly documented in the official [Scrimba style guide](https://www.notion.so/Style-guide-5223ffc0d7624779942d8bada50e10f7) and reflected in our latest posts.
 
-One advantage we leaned on to beat the competition is the Scrimba Podcast. After transcribing more than 100 episodes, we could always find an authoritative SME to cite in a pinch. 
+One advantage we leaned on to beat the competition is the Scrimba Podcast, which I host. After transcribing more than 100 episodes, we could always find an authoritative SME to cite in a pinch. 
+
+Another is the YouTube channel. Embedding videos reduces dwell time.
 
 ### On-page technical SEO optimizations
  
@@ -112,7 +115,7 @@ Additionally, I sought opportunities to improve our chance of ranking through te
 
 - Structure internal links. For example, using the reverse content silo structure
 - Write answers in an NLP-friendly way, giving us a better chance to feature in the SERP
-- Resize and compress images. Ensure images have keyword-friendly file names and genuinely accessible `alt` text
+- Resize and compress images. Ensure images have keyword-friendly file names and genuinely helpful `alt` text
 
 ### Refresh content as necessary
 When I set out to write the content brief for a new post, I must confess - I look at posts competing for the same keyword to one up them.
