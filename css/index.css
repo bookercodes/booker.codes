@@ -281,6 +281,7 @@ a[href].direct-link:focus:visited,
   /* background: green; */
   display: flex;
   flex-direction: row-reverse;
+  justify-content: space-between;
 }
 
 h1,h2 {

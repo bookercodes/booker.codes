@@ -14,8 +14,8 @@ templateClass: tmpl-post
 
   <div class="post-container">
     
-    {%- if toc %}
     <div class="post-aside">
+    {%- if toc %}
       <h3>Table of Contents</h3>
       {{  content | toc | safe }}
       {# <ul>
@@ -30,8 +30,8 @@ templateClass: tmpl-post
           </ul>
         </li>
       </ul> #}
-    </div>
     {%- endif %}
+    </div>
     <div class="post-content">
       {{ content | safe }}
     </div>
