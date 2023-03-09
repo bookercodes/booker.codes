@@ -353,10 +353,14 @@ h1,h2 {
   scroll-margin-top: 80px;
 }
 
+.post-content iframe {
+  max-width: 37.5em; /* 600px /16 */
+  width: 100%;
+  /* height: 315px; */
+  height: 6%;
+}
+
 @media only screen and (max-width: 900px) {
-  .tmpl-post {
-    padding-right: 0;
-  }
   .post-container {
     flex-direction: column;
   }

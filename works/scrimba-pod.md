@@ -67,7 +67,7 @@ I don't think it was up to NPRs standards 😅! But it was _good enough_ to star
 
 A few months later, we arrived at a podcast elevator pitch and format that hooks our listeners:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ojvIoO_Cn6g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe  src="https://www.youtube.com/embed/ojvIoO_Cn6g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ### Hiring an editor
 Once the podcast got some traction and positive feedback, I proposed that we hire an experienced podcast editor. 
