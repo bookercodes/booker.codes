@@ -57,7 +57,7 @@ It started with me researching and writing my own posts. Over time, I bought on 
 
 ## Scrimba's content strategy in 4 steps
 
-To understand my approach to content strategy, here are the 4 broad steps I took with Scrimba. If you're wondering if this is secret sauce, it really isn't. Every SEO worth their salt knows success lies in the execution!
+To understand my approach to content strategy, here are the 4 broad steps I took with Scrimba. 
 
 1. Identify topic clusters impactful for the business
 2. Create high-caliber and engaging content
@@ -104,7 +104,7 @@ How we achieve this is partly documented in the official [Scrimba style guide](h
 
 One advantage we leaned on to beat the competition is the Scrimba Podcast, which I host. After transcribing more than 100 episodes, we could always find an authoritative SME to cite in a pinch. 
 
-Another is the YouTube channel. Embedding videos reduces dwell time.
+Another is the YouTube channel. Embedding videos increases dwell time.
 
 ### On-page technical SEO optimizations
  
@@ -136,7 +136,7 @@ I created an editorial process revolving around a Notion kanban board:
 ![Scrimba blog alt text](../../img/scrimba-blog-content-tracker.png)
 I also wrote and maintained a style guide, moving it forward with every revision. I try not to share the same feedback twice and update the style guide instead.
 
-At the time of this writing, I am in the process of supporting our most experienced writers to complete peer reviews. 
+At the time of this writing, I am in the process of supporting our most experienced writers to complete peer reviews to remove myself as a bottleneck and publish more top posts every month.
 
 ## Systematic content repurposing
 
