@@ -354,6 +354,9 @@ h1,h2 {
 }
 
 @media only screen and (max-width: 900px) {
+  .tmpl-post {
+    padding-right: 0;
+  }
   .post-container {
     flex-direction: column;
   }
