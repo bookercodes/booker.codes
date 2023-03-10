@@ -35,8 +35,19 @@ p.biig {
 }
 
 .sexy-pic {
+    height: 300px;
     margin-bottom: 20px;
+    display: flex;
+    /* display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+    grid-gap: 24px; */
+    max-width: 1100px; 
+    margin: 50px auto;
+    margin-bottom: 90px;
+    overflow-x: scroll;
+    gap: 32px;
 }
+.sexy-pic
 .about img,
 .sexy-pic img {
     width: 100%;
