@@ -52,8 +52,8 @@ p.biig {
     width: 100%;
 }
 .sexy-pic img {
-    width: 480px;
-    height: 270px;
+    width: 300px;
+    height: 300px;
     object-fit: cover;
 }
 img { border-radius: 5px; }
