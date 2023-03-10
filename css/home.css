@@ -35,7 +35,7 @@ p.biig {
 }
 
 .sexy-pic {
-    height: 300px;
+    /* height: 300px; */
     margin-bottom: 20px;
     display: flex;
     /* display: grid;
@@ -47,10 +47,15 @@ p.biig {
     overflow-x: scroll;
     gap: 32px;
 }
-.sexy-pic
 .about img,
 .sexy-pic img {
     width: 100%;
+}
+.sexy-pic img {
+    width: 300px;
+    height: 300px;
+    object-fit: cover;
+    border-radius: 10px;
 }
 img { border-radius: 5px; }
 
