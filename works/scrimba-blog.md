@@ -82,15 +82,18 @@ Here's one example of from the Scrimba blog:
 
 ![Scrimba blog alt text](../../img/scrimba-blog-web-development-cluster.png)
 
-> **A lesson learned** Going back to the blog's origin story for a moment, a lot of learners asked, "how do I get a job?" 
+<div class="callout">
+<h6>A lesson learned</h6>
+<p>Going back to the blog's origin story for a moment, a lot of learners asked, "how do I get a job?"</p>
 
-> I created a lot of content around this topic, but it did not convert very well. Why?
+<p>I created a lot of content around this topic, but it did not convert very well. Why?</p>
 
-> Scrimba mainly offer beginner courses. I learned leaners at this stage don't need beginner courses and were unlikely to convert.
+<p>Scrimba mainly offer beginner courses. I learned leaners at this stage don't need beginner courses and were unlikely to convert.</p>
 
-> Besides, we were competing with Indeed, GlassDoor, and other websites who have much better data and stories to tell around these subjects instead of focusing on our own advantages.
+<p>Besides, we were competing with Indeed, GlassDoor, and other websites who have much better data and stories to tell around these subjects instead of focusing on our own advantages.</p
 
-> That's when I pivoted to the `learn web development` vertical, where we address questions learners have at the _beginning_ of their journey.
+<p>That's when I pivoted to the <code>learn web development</code> vertical, where we address questions learners have at the <em>beginning</em> of their journey.</p>
+</div>
 
 ### Create high-caliber and engaging content
 

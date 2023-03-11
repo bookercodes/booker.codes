@@ -344,6 +344,11 @@ h1,h2 {
   padding: .5em 1em;
 }
 
+.callout h6 {
+  font-size: 1.17rem;
+  margin-bottom: 0;
+}
+
 .post-content {
   width: 80%;
   padding-right: 32px;
