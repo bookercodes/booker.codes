@@ -5,8 +5,10 @@ date: 2023-01-07
 layout: layouts/post.njk
 ---
 
+## What is Scrimba?
 Scrimba (YC S20) is a coding course platform with over 120K monthly active students. It's based on a new video format that makes the screencasts fully interactive for students, and easier to create for teachers.
 
+## What is the Scrimba YouTube?
 On the [Scrimba YouTube](https://www.youtube.com/c/scrimba), I plan, write, record, and sometimes edit videos to help viewers learn to code. 
 
 Apart from producing my own videos (you can watch some linked below!) my role is to support the team to be modern video creators as well.
