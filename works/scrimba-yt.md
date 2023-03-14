@@ -33,7 +33,7 @@ Here are my key accomplishments to date,
 - 🏆 Overhaul thumbnails and increase CTR from 1.2% to 3.5%
 - 🏆 Identify live streams as a successful medium to engage and attract new students
 - 🏆 Coach and enable my team to host weekly streams
-- 🏆 Collaborate with teachers to write and edit compelling intros for their courses. Courses exported to YouTube have been viewed 5m times in 12 months
+- 🏆 Collaborate with teachers to write and edit compelling intros for their courses. Courses exported to the FreeCodeCamp YouTube channel have been viewed 5m times in 12 months
 - 🏆 Hire and collaborate with a senior-level video editor
 - 🏆 Collaborate with said video editor to develop reusable assets like animations and a library of music beds we use to produce quality videos more efficiently
 

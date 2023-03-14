@@ -34,9 +34,7 @@ In my role as Content Lead, it's my responsibility to:
 - Carry out technical SEO improvements based on industry trends and updates from Google
 - Hire, coordinate, and support freelance SEO writers who are also technical. Prooread, edit, and suggest improvements to their work
 
-## Case study
-
-### Why did we start the Scrimba blog?
+## The business problem
 
 When I joined Scrimba as employee #2 in 2020, I wore multiple hats, including "Community Manager." 
 
@@ -59,7 +57,7 @@ It started with me researching and writing my own posts. Over time, I bought on 
 
 ![Scrimba blog alt text](../../img/scrimba-blog-graph.png)
 
-### How did you approach content strategy?
+## Solution: A 4 step content strategy
 
 To understand my approach to content strategy, here are the 4 broad steps I took with Scrimba. 
 
@@ -70,7 +68,7 @@ To understand my approach to content strategy, here are the 4 broad steps I took
 
 Let's break it down.
 
-#### Step 1. Identify topic clusters impactful to the business
+### Identify topic clusters impactful to the business
 
 Scrimba has a bunch of courses covering a range of technologies, from React and Angular to focused libraries like Tailwind. 
 
@@ -99,7 +97,7 @@ Here's one example of from the Scrimba blog:
 <p>That's when I pivoted to the <code>learn web development</code> vertical, where we address questions learners have at the <em>beginning</em> of their journey.</p>
 </div>
 
-#### Step 2. Create high-caliber and engaging content
+### Create high-caliber and engaging content
 
 Content around how to learn to code is pretty darn competitive. Not "mothers day gift ideas" competitive, but competitive nonetheless.
 
@@ -113,9 +111,8 @@ One advantage we leaned on to beat the competition is the Scrimba Podcast, which
 
 Another is the YouTube channel. Embedding videos increases dwell time.
 
-#### Step 3. On-page technical SEO optimizations
+### On-page technical SEO optimizations
  
-
 From a technical perspective, it is my responsibility to ensure the Scrimba blog has healthy web vitals and is free from any crawl, schema, HTTPs, etc. errors.
 
 Additionally, I sought opportunities to improve our chance of ranking through technical SEO tactics: 
@@ -124,7 +121,7 @@ Additionally, I sought opportunities to improve our chance of ranking through te
 - Write answers in an NLP-friendly way, giving us a better chance to feature in the SERP
 - Resize and compress images. Ensure images have keyword-friendly file names and genuinely helpful `alt` text
 
-#### Step 4. Refresh content as necessary
+### Refresh content as necessary
 When I set out to write the content brief for a new post, I must confess - I look at posts competing for the same keyword to one up them.
 
 The funny thing is, when our content starts to rank, our competitors will one up us yet. It's the nature of the web and SEO. Search intent can also change, so content we wrote 8 months ago might not be in the right format for today. 
@@ -133,7 +130,7 @@ As part of my responsibility as Content Lead, I monitor and measure all SEO effo
 
 And that's about it! Those are the 4 steps to creating a top-ranking blog. Well, in _theory_ anyway. Success lies in the execution!
 
-### Scaling the process
+## Achieving content at scale
 With a solid content strategy and some key learnings under my belt, I sought help from freelance writers in my network and gradually moved into an editorial-type role. 
 
 
@@ -145,7 +142,7 @@ I also wrote and maintained a style guide, moving it forward with every revision
 
 At the time of this writing, I am in the process of supporting our most experienced writers to complete peer reviews to remove myself as a bottleneck and publish more top posts every month.
 
-### Systematic content repurposing
+## Systematic content repurposing
 
 SEO is a long-term investment and can take a while to pay off. At the same time, I don't want to leave short-term gains on the table.
 
