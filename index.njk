@@ -13,13 +13,17 @@ eleventyNavigation:
         <p>A <strong>content marketer who codes</strong> based in Shoreditch, East London.</p>
     </div>
 </div>
-<div class="sexy-pic">
+<div class="sexy-pic" id="paginated_gallery">
+    <div class="gallery">
     <img src="{{ '/img/me.jpg' | url }}" alt="Alex Booker">
     <img src="{{ '/img/me-2.png' | url }}" alt="Alex Booker">
     <img src="{{ '/img/me-3.png' | url }}" alt="Alex Booker">
     <img src="{{ '/img/me-5.png' | url }}" alt="Alex Booker">
     <img src="{{ '/img/me-4.png' | url }}" alt="Alex Booker">
     <img src="{{ '/img/me-6.png' | url }}" alt="Alex Booker">
+    </div>
+    <span class="btn prev"></span>
+    <span class="btn next"></span>
 </div>
 <div class="container">
     <div class="about">
@@ -94,6 +98,9 @@ eleventyNavigation:
         </ul>
     </div>
 </div>
+
+<script src="{{ '/js/gallery.js' | url }}"></script>
+
 {# {% set maxPosts = collections.posts.length | min(3) %}
 <h1>Latest {% if maxPosts == 1 %}Post{% else %}{{ maxPosts }} Posts{% endif %}</h1>
 
