@@ -53,20 +53,27 @@ In my role as Content Lead, it’s my responsibility to:
 
 ## The business problem
 
-Scrimba offers an interactive video format which helps learners get hands on, remember what they’re learning, and finally learn to code.
+Scrimba offers an interactive code screencast format that encourages learners to get hands-on and therefore better comprehend difficult coding concepts. This format is superior to traditional videos in every way, but not everyone has heard about the power of Scrimba yet. 
 
-To reach new customers, we have to meet them where they’re at. Namely, YouTube!
+To reach new students and spread the word, we have to meet them where they’re at. Namely, on YouTube! 
 
-Chances are, if someone is learning on YouTube, they enjoy learning with videos and will benefit from Scrimba. This made YouTube an attractive channel from the beginning.
+Chances are, if someone is learning on YouTube, they enjoy learning with videos and will get along with Scrimba. This made YouTube a promising acquisiton channel from the beginning.
 
-Further, Scrimba’s overarching mission is to offer a boot camp-like experience at a fraction of the cost. 
+Further, Scrimba’s overarching mission is to offer the same experience as a $15K bootcamp for $30 a month. A bold mission by any measure!
 
-Offering a $15K+ experience at $30 a month is a bold assignment. 
+At a bootcamp, you don’t “just” get the educational materials. You get mentorship, a community, and career advice as well. 
 
-At a bootcamp, you don’t “just” get the educational materials. You get mentorship, community, and career advice as well. While bootcamps solve this problem with one on one mentorship, this isn't something Scrimba can reasonably offer at their affordable price point. **We needed an alternative more scalable way to sovle the same problem.**
+Bootcamps can offer this support to students because they hire expensive full-time TAs and career coaches. 
 
-That's where YouTube comes in.
+Connecting students and mentors one-on-one isn't something Scrimba can reasonably do at such low monthly price point. To fulfil our mission and strengthen product-market fit, we would have to find a different way to offer students support at scale.
 
-In an attempt to address these problems at scale and strengthen  product market fit (PMF), I was tasked to produce top-tier videos that support students at scale, strengthen PMF, grow the brand, and attract new customers in the process.  By collaborating with internal marketnig and the product team, we found ways to make the videos part of the experience through product updates and email campaigns and stuff.
+That's where I come in 🙋🏻:
 
-Here’s how I did it 👇🏻
+- P: For Scrimba to be a billion dollar business, we need to disrupt bootcamps
+- P: We need to help students achieve the same outcome at scale
+- P: There should be a weekly "pulse" like a bootcamp 
+- A: On it boss
+
+To help students achieve the same career sucess they could find at a bootcamp, I set out to produce top-tier videos that support existing students while also acquiring new ones with compelling title, thumbnails, and hooks. 
+
+This initiative went beyond community and content marketing. It also involved collaborating with the product and product marketing teams to make videos part of the product experience.
