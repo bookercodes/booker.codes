@@ -59,9 +59,7 @@ To reach new students and spread the word, we have to meet them where they’re 
 
 Chances are, if someone is learning on YouTube, they enjoy learning with videos and will get along with Scrimba. This made YouTube a promising acquisiton channel from the beginning.
 
-Further, Scrimba’s overarching mission is to offer the same experience as a $15K bootcamp for $30 a month. A bold mission by any measure!
-
-At a bootcamp, you don’t “just” get the educational materials. You get mentorship, a community, and career advice as well. 
+Further, Scrimba’s overarching mission is to offer the same experience as a $15K bootcamp for $30 a month. A bold mission by any measure! This is because at  a bootcamp, you don’t “just” get the educational materials. You get mentorship, a community, and career advice as well. 
 
 Bootcamps can offer this support to students because they hire expensive full-time TAs and career coaches. 
 
