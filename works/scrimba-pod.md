@@ -36,7 +36,7 @@ In my role as Content Lead, it's my responsibility to:
 - Source and reach out to my own guests
 - Make newly-hired students who have never been on a podcast before feel comfortable and bring out the best in them
 
-## Why did Scrimba need a podcast?
+## The business problem
 When it comes to learning how to code, students are spoiled for choice. Great for students really! But for a coding course platform like [Scrimba](https://scrimba.com), it can be tricky to keep students subscribed and manage churn.
 
 When I joined Scrimba in 2020, Per (Scrimba CEO and co-founder) and I collaborated on a series of experiments to identify high impact initiatives to keep students engaged and reduce churn.
@@ -55,7 +55,7 @@ All we had to do now was prove the hypotheses! There was just one problem...
 I had no idea how to start a podcast.
 
 
-## A podcast is born
+## Solution: A podcast is born
 Yeah, that's right. Another one!
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">in my late 20’s which means time to start <br><br>⚪️a family<br><br>🔘a podcast</p>&mdash; david (@david_actually) <a href="https://twitter.com/david_actually/status/1047509702677069824?ref_src=twsrc%5Etfw">October 3, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -99,7 +99,7 @@ The other driver of growth? Systematic content repurposing.
 
 Let's take a closer look at how we leverage social media and shortform content to reach new listeners every month.
 
-### Content repurposing 
+### Systematic content repurposing 
 For each episode, we comb through the transcript for the best moments and repurpose them into short form content such as clips, quotes, threads, or LinkedIn carousels:
 
 ![A company effort](../../img/scrimba-pod-repurposing.png)
