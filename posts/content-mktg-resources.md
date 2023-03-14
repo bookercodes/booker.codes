@@ -17,3 +17,6 @@ layout: layouts/post.njk
 
 ## Backlink building
 - [Skyscraper technique by Brian Dean](https://backlinko.com/skyscraper-technique)
+
+## Case studies
+- [Why I used Notion to document my UX Research case study](https://medium.com/design-bootcamp/how-i-used-notion-to-document-my-ux-research-case-study-af7e82e79dee)
