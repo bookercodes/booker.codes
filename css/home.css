@@ -43,9 +43,7 @@ p.biig {
     overflow-x: auto;
     scroll-snap-type: inline mandatory;
     gap: 16px;
-
-
-
+    /* scroll-snap-stop: always; */
 }
 .sexy-pic {
     margin-bottom: 20px;

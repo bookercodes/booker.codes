@@ -54,7 +54,6 @@ All we had to do now was prove the hypotheses! There was just one problem...
 
 I had no idea how to start a podcast.
 
-
 ## Solution: A podcast is born
 Yeah, that's right. Another one!
 
@@ -66,19 +65,12 @@ For the first few episode, I recorded using my laptop microphone and edited the 
 
 ![A company effort](../../img/scrimba-pod-timeline.png)
 
-
 I don't think it was up to NPRs standards 😅! But it was _good enough_ to start learning and iterating on the positioning of the podcast.
 
 A few months later, we arrived at a podcast elevator pitch and format that hooks our listeners:
 
 <iframe  src="https://www.youtube.com/embed/ojvIoO_Cn6g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-## How does having an editor keep you consistent?
-Once the podcast got some traction and positive feedback, I proposed that we hire an experienced podcast editor. 
-
-Did you know? [83% of podcasts eventually stop uploading and die out](https://podpros.com/5-main-reasons-podcasts-fail-and-how-you-can-overcome-each/#:~:text=There%20are%202.5%20million%20podcasts,in%20365%20days%20from%20now.), whereas the Scrimba podcast hasn't missed a week in over a year and is still going strong.
-
-Bringing on an editor allowed us to publish consistently and make the podcast as good as it can be while I worked on other projects in my role as Content Lead (you can read more about [how I reignited the Scrimba YouTube channel here](https://booker.codes/works/scrimba-yt/).)
 
 My editor, Jan, and I collaborated closely to make the format as good as it can possibly be and develop an efficient workflow:
 
@@ -86,24 +78,9 @@ My editor, Jan, and I collaborated closely to make the format as good as it can 
 
 We haven't missed a weekly episode in 89+ weeks are still going strong!
 
-## Where do the listeners and growth come from?
-When we publish an episode of the Scrimba podcast, we aim to produce something that will still be relevant and interesting a year or more later. This commitment to evergreen topics and production quality has paid off in a big way.  
+## Technology stack
 
-### Compounding effects of evergreen content 🌱
-
-Listeners often post on Twitter to tell us they are working their way through the backlog. The same trend is reflected in our analytics. In fact, **half** our monthly downloads come from episodes published more than a month ago. 
-
-This compounding effect has been one of two major drivers for listnership growth. 
-
-The other driver of growth? Systematic content repurposing.
-
-Let's take a closer look at how we leverage social media and shortform content to reach new listeners every month.
-
-### Systematic content repurposing 
-For each episode, we comb through the transcript for the best moments and repurpose them into short form content such as clips, quotes, threads, or LinkedIn carousels:
-
-![A company effort](../../img/scrimba-pod-repurposing.png)
-
-Although we might share the same insight on differnet platforms, it's imperative we get the angle right. A great thread might not make a great LinkedIn carousel and so on.
-
-![A company effort](../../img/scrimba-pod-thread.png)
+- Descript
+- Riverside
+- Transistor.fm
+- Adobe Audition
