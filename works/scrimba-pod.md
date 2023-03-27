@@ -14,7 +14,7 @@ Scrimba (YC S20) is a coding course platform with over 120K monthly active stude
 
 ## What is the Scrimba podcast?
 
-[The Scrimba Podcast](https://scrimba.com/podcast) is a top-ranking technology podcast for aspiring coders looking to transition into tech. At the time of this writing, there are currently 103 episodes, generating **14,000+ downloads per month**.  
+[The Scrimba Podcast](https://scrimba.com/podcast) is a top-ranking technology podcast for aspiring coders looking to transition into tech. At the time of this writing, there are currently 103 episodes, generating <span id="hi">**14,000+ downloads per month**</span>.  
 
 Here are some of my favourite episodes to give you a sense for what the show is all about. One week I interview a recently-hired Scrimba student. The next week, I interview an experienced professional about their career advice:
 
@@ -71,7 +71,6 @@ A few months later, we arrived at a podcast elevator pitch and format that hooks
 
 <iframe  src="https://www.youtube.com/embed/ojvIoO_Cn6g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-
 My editor, Jan, and I collaborated closely to make the format as good as it can possibly be and develop an efficient workflow:
 
 ![A company effort](../../img/scrimba-pod-format.png)
@@ -84,3 +83,5 @@ We haven't missed a weekly episode in 89+ weeks are still going strong!
 - Riverside
 - Transistor.fm
 - Adobe Audition
+<script src="https://unpkg.com/rough-notation/lib/rough-notation.iife.js"></script>
+<script src="{{ '/js/hi.js' | url }}"></script>
