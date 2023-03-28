@@ -78,3 +78,9 @@ To help students achieve the same career sucess they could find at a bootcamp, I
 - **YouTube Studio** Analaytics
 
 ![Scrimba blog alt text](../../img/scrimba-yt-setup.png)
+
+
+## Related reading
+
+- Everything I know about designing clickable thumbnails
+- Reviewing Ali Abdaal's YouTube Academy

@@ -28,6 +28,8 @@ I started the Scrimba blog from scratch in 2022. Here are my key accomplishments
 In my role as Content Lead, it's my responsibility to:
 
 - Plan the strategic direction of our content efforts to reach thousands of learner developers a month through organic evergreen content
+- Write posts
+- Edit posts
 - Critically and effectively analyse the scope and potential business impact of new posts
 - Monitor and measure key metrics and evaluate how content is performing, refreshing content when necessary
 - Syndicate every bit of content on industry-leading publications like Hashnode and dev.to
@@ -36,7 +38,7 @@ In my role as Content Lead, it's my responsibility to:
 
 ## The business problem
 
-When I joined Scrimba as employee #2 in 2020, I wore multiple hats, including "Community Manager." 
+When I joined Scrimba as employee #2 in 2020, I wore multiple hats, including "Community Manager" before bring promoted to Content Lead. 
 
 As I huddled with students, I heard the same questions again and again (and again!):
 
@@ -70,3 +72,10 @@ To understand my approach to content strategy, here are the 4 broad steps I took
 - **Answer the Public** Keyword research
 - **Ghost** CRM
 - **Google Sheets** Keyword research
+
+## Related reading
+
+- How I launched a brand new blog to 80,000 monthly organic visits in 8 months
+- Cutomise Ghost without any CSS
+- What I know about hiring freelance writers
+- 8 surprising features of Ahrefs

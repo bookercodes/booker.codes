@@ -79,9 +79,18 @@ We haven't missed a weekly episode in 89+ weeks are still going strong!
 
 ## Technology stack
 
-- Descript
-- Riverside
-- Transistor.fm
-- Adobe Audition
+- **Descript**
+- **Riverside**
+- **Transistor.fm**
+- **Adobe Audition**
+- **Notion**
+
+
 <script src="https://unpkg.com/rough-notation/lib/rough-notation.iife.js"></script>
 <script src="{{ '/js/hi.js' | url }}"></script>
+
+## Related reading
+
+- How to start a podcast in 2023
+- My home podcast recording setup
+- How to ask better questions in a podcast interview
