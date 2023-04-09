@@ -84,8 +84,9 @@ My editor, Jan, and I collaborated closely to make the format as good as it can 
 
 We haven't missed a weekly episode in 89+ weeks are still going strong!
 
-## Technology stack
+## Tools I use
 
+- To record the podcast, we use [Riverside](https://riverside.fm/).
 - **Descript**
 - **Riverside**
 - **Transistor.fm**

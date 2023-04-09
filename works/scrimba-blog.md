@@ -19,7 +19,7 @@ In my role as Content Lead, I launched the blog in June 2022. In the 8 months si
 ## Key accomplishments & responsibilities
 I started the Scrimba blog from scratch in 2022. Here are my key accomplishments to date,
 
-- 🏆 Founded and led a team of talented and motivated SEO writers who are also technical 
+- 🏆 Hired and enabled a team of talented and motivated SEO writers who are also technical 
 - 🏆 Oversaw the publication of 70 SEO optimised posts, enriched with custom illustrations, embedded YouTube videos, and interactive code examples
 - 🏆 Attained top-ranking positions for keywords highly relevant to Scrimba's business. Increased organic traffic 80% MoM
 - 🏆 Developed a content repurposing playbook to repupose long-form posts for social media. Increase traffic to the blog from social by X%
@@ -38,9 +38,9 @@ In my role as Content Lead, it's my responsibility to:
 
 ## The business problem
 
-When I joined Scrimba as employee #2 in 2020, I wore multiple hats, including "Community Manager" before bring promoted to Content Lead. 
+When I joined Scrimba as employee #2 in 2020, in typical startup fashion, I wore multiple hats, including "Community Manager" before bring promoted to Content Lead. 
 
-As I huddled with students, I heard the same questions again and again (and again!):
+As I helped students, I heard the same questions again and again (and again!):
 
 - What programming language should I learn first?
 - How long will it take?
@@ -55,7 +55,7 @@ It started with me researching and writing my own posts. Over time, I bought on 
 
 ![Scrimba blog alt text](../../img/scrimba-blog-questions-to-posts.png)
 
-8 months later, we are now ranking for some high-value keywords and still climbing!
+8 months later, we are now ranking for some high-value keywords and climbing at a good pace!
 
 ![Scrimba blog alt text](../../img/scrimba-blog-graph.png)
 
@@ -65,6 +65,8 @@ To understand my approach to content strategy, here are the 4 broad steps I took
 2. Create high-caliber and engaging content
 3. On-page technical SEO optimization
 4. Refresh content as necessary
+
+You can read more about [How I launched a brand new blog to 80,000 monthly organic visits in 8 months]() on my marketing blog.
 
 ## Tools I used
 - **Google Analytics**
