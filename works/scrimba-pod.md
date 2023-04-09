@@ -18,6 +18,13 @@ Scrimba (YC S20) is a coding course platform with over 120K monthly active stude
 
 Here are some of my favourite episodes to give you a sense for what the show is all about. One week I interview a recently-hired Scrimba student. The next week, I interview an experienced professional about their career advice:
 
+- [How Netlify CEO Matt Biilmann Went from Being Self-taught to Bootstrapping a Company](https://scrimba.com/podcast/matt-biilmann/)
+- [How to Avoid Burnout, Improve Your Confidence and Keep Coding Fun, with Scrimba Student Sylvia](https://scrimba.com/podcast/avoid-burnout-improve-your-confidence-and-keep-coding-fun-with-scrimba-student-sylvia/)
+- [Quincy Larson: Why Learning To Code as an Adult Might Be Easier Than You Think](https://scrimba.com/podcast/quincy-larson-learning-to-code-as-an-adult/)
+- [Career Change on Maternity Leave: How Kynnedy Learned To Code, Became a Code Reviewer, and Landed Her First Developer Job](https://scrimba.com/podcast/career-change-on-maternity-leave-how-kynnedy-learned-to-code-became-a-code-reviewer-and-landed-her-first-developer-job/)
+- [How to become a successful Junior Developer with Scott Hanselman from Microsoft](https://scrimba.com/podcast/how-to-become-a-successful-junior-developer-with-scott-hanselman-from-microsoft/)
+- [What a good developer resume looks like and how to write one - learnings from an Uber Engineering Manager](https://scrimba.com/podcast/good-developer-resume/)
+
 ## Key accomplishments & responsibilities
 I started the Scrimba podcast from scratch in 2020. Here are my key accomplishments to date,
  
