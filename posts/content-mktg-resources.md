@@ -20,3 +20,11 @@ layout: layouts/post.njk
 
 ## Case studies
 - [Why I used Notion to document my UX Research case study](https://medium.com/design-bootcamp/how-i-used-notion-to-document-my-ux-research-case-study-af7e82e79dee)
+
+
+## Books
+- [Technical Content Strategy Decoded](https://everydeveloper.com/books/technical-content-strategy-decoded/)
+
+## Developer marketing
+
+- [Scaling DevTools podcast](https://www.youtube.com/@scalingdevtools/videos)
