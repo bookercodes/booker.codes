@@ -66,7 +66,7 @@ To understand my approach to content strategy, here are the 4 broad steps I took
 3. On-page technical SEO optimization
 4. Refresh content as necessary
 
-You can read more about [How I launched a brand new blog to 80,000 monthly organic visits in 8 months]() on my marketing blog.
+This page is dedicated to the high-level achievements, but you can read more about [How I launched a brand new blog to 80,000 monthly organic visits in 8 months]() on my marketing blog.
 
 ## Tools I used
 - **Google Analytics**
