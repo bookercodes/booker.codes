@@ -1,8 +1,8 @@
 ---
-title: Ably
+title: Ably Blog
 description: Ably work
 date: 2023-01-12
-toc: true
+toc: false
 layout: layouts/post.njk
 ---
 
