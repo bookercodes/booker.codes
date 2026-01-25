@@ -41,6 +41,46 @@
       -webkit-font-smoothing: antialiased;
       -moz-osx-font-smoothing: grayscale;
       position: relative;
+      transition: background-color 0.3s ease, color 0.3s ease;
+    }
+
+    *, *::before, *::after {
+      transition: background-color 0.3s ease, border-color 0.3s ease, color 0.3s ease, box-shadow 0.3s ease;
+    }
+
+    /* Theme toggle */
+    .theme-toggle {
+      position: fixed;
+      top: 1.25rem;
+      right: 1.25rem;
+      width: 20px;
+      height: 20px;
+      border-radius: 50%;
+      border: 1.5px solid var(--color-border);
+      background: var(--color-text);
+      cursor: pointer;
+      transition: transform 0.2s ease;
+      z-index: 100;
+      opacity: 0.7;
+    }
+
+    .theme-toggle:hover {
+      opacity: 1;
+      transform: scale(1.1);
+    }
+
+    /* Light mode */
+    [data-theme="light"] {
+      --color-bg: #FAFAFA;
+      --color-surface: #FFFFFF;
+      --color-border: #E5E5E5;
+      --color-text: #0A0A0A;
+      --color-text-secondary: #525252;
+      --color-text-tertiary: #737373;
+    }
+
+    [data-theme="light"] .theme-toggle {
+      background: var(--color-text);
     }
 
     /* Subtle noise texture */
@@ -82,7 +122,7 @@
 
     /* Header */
     header {
-      padding: 5rem 0 3rem;
+      padding: 5rem 0 0;
       animation: fadeIn 0.6s ease-out;
     }
 
@@ -95,26 +135,77 @@
     }
 
     .tagline {
-      font-size: 1.125rem;
+      font-size: 1rem;
       color: var(--color-text-secondary);
       font-weight: 400;
-      max-width: 480px;
+      list-style: none;
+      line-height: 1.8;
+    }
+
+    .tagline li {
+      margin-bottom: 0.5rem;
+    }
+
+    .tagline li:last-child {
+      margin-bottom: 0;
+    }
+
+    .tagline a {
+      color: var(--color-text);
+      text-decoration: none;
+      box-shadow: inset 0 -0.35em 0 rgba(255, 240, 150, 0.6);
+    }
+
+    .tagline a:hover {
+      box-shadow: inset 0 -1.2em 0 rgba(255, 240, 150, 0.4);
     }
 
     /* Intro */
     .intro {
-      padding: 1.5rem 0 1rem;
+      margin: 2.5rem 0 0;
+      padding: 0;
+      position: relative;
       animation: fadeIn 0.6s ease-out 0.1s backwards;
     }
 
-    .intro p {
-      font-size: 1rem;
-      color: var(--color-text-secondary);
-      margin-bottom: 1.25rem;
+    .intro::before {
+      content: '"';
+      font-family: Georgia, serif;
+      font-size: 4rem;
+      color: var(--color-border);
+      position: absolute;
+      left: -0.5em;
+      top: -0.3em;
+      line-height: 1;
     }
 
-    .intro p:last-child {
+    .intro-text {
+      padding-left: 0;
+    }
+
+    .intro-text p {
+      font-size: 1rem;
+      color: var(--color-text-secondary);
+      margin-bottom: 1rem;
+      line-height: 1.8;
+      font-style: italic;
+    }
+
+    .intro-text p:last-child {
       margin-bottom: 0;
+    }
+
+    .intro-avatar {
+      width: 48px;
+      height: 48px;
+      border-radius: 50%;
+      object-fit: cover;
+      border: 2px solid var(--color-border);
+      margin-top: 1.25rem;
+    }
+
+    .hero-spacer {
+      height: 3rem;
     }
 
     /* Links */
@@ -126,12 +217,12 @@
 
     .intro a {
       color: var(--color-text);
-      border-bottom: 1px solid var(--color-border);
-      transition: border-color 0.2s ease, color 0.2s ease;
+      text-decoration: none;
+      box-shadow: inset 0 -0.35em 0 rgba(255, 240, 150, 0.6);
     }
 
     .intro a:hover {
-      border-color: var(--color-text-secondary);
+      box-shadow: inset 0 -1.2em 0 rgba(255, 240, 150, 0.4);
     }
 
     /* Section */
@@ -181,6 +272,109 @@
       color: var(--color-text-secondary);
       font-size: 0.9375rem;
       line-height: 1.7;
+    }
+
+    /* Videos */
+    .videos {
+      animation: fadeIn 0.6s ease-out 0.22s backwards;
+      padding: 3rem 0;
+      border-top: 1px solid var(--color-border);
+      border-bottom: 1px solid var(--color-border);
+    }
+
+    .videos .section-label {
+      max-width: 640px;
+      margin: 0 auto 2rem;
+      padding: 0 2rem;
+    }
+
+
+    .video-carousel {
+      display: flex;
+      gap: 1rem;
+      overflow-x: auto;
+      overflow-y: hidden;
+      scroll-snap-type: x mandatory;
+      scrollbar-width: none;
+      -ms-overflow-style: none;
+      justify-content: center;
+      padding: 0 2rem;
+    }
+
+    .video-carousel::-webkit-scrollbar {
+      display: none;
+    }
+
+    .video-card {
+      flex: 0 0 280px;
+      scroll-snap-align: start;
+      display: block;
+      border: none;
+      background: none;
+    }
+
+    .video-card:first-child {
+      scroll-snap-align: start;
+    }
+
+    .video-thumb {
+      position: relative;
+      aspect-ratio: 16 / 9;
+      border-radius: 8px;
+      overflow: hidden;
+      background: var(--color-surface);
+      border: 1px solid var(--color-border);
+      margin-bottom: 0.75rem;
+    }
+
+    .video-thumb img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      transition: transform 0.3s ease, opacity 0.3s ease;
+    }
+
+    .video-card:hover .video-thumb img {
+      transform: scale(1.03);
+      opacity: 0.8;
+    }
+
+    .play-icon {
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      width: 48px;
+      height: 48px;
+      background: var(--color-bg);
+      border-radius: 50%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      opacity: 0;
+      transition: opacity 0.2s ease;
+    }
+
+    .play-icon svg {
+      width: 20px;
+      height: 20px;
+      color: var(--color-text);
+      margin-left: 2px;
+    }
+
+    .video-card:hover .play-icon {
+      opacity: 1;
+    }
+
+    .video-title {
+      font-size: 0.875rem;
+      color: var(--color-text-secondary);
+      line-height: 1.5;
+      transition: color 0.2s ease;
+    }
+
+    .video-card:hover .video-title {
+      color: var(--color-text);
     }
 
     /* Connect */
@@ -289,32 +483,108 @@
       .service {
         margin-bottom: 2rem;
       }
+
+      .video-carousel {
+        padding: 0 1.5rem;
+      }
+
+      .video-card {
+        flex: 0 0 260px;
+      }
+
+      .videos .section-label {
+        padding: 0 1.5rem;
+      }
     }
   </style>
 </head>
 <body>
+  <button class="theme-toggle" aria-label="Toggle theme"></button>
   <div class="container">
     <header>
       <h1 class="name">Alex Booker</h1>
-      <p class="tagline">Engineer-turned-content-marketer with a strong focus on developer tools.</p>
+      <ul class="tagline">
+        <li>Engineer-turned-marketer, helping early-stage developer tools win through hands-on developer education and technical content.</li>
+        <li>Currently leading the Developer Education team at <a href="https://mastra.ai">Mastra</a>.</li>
+        <li>Previously, a content creator who codes at <a href="https://clerk.com">Clerk</a>.</li>
+        <li>Before that, I led content at <a href="https://scrimba.com">Scrimba</a> and hosted 170 episodes of the <a href="https://scrimba.com/podcast">Scrimba Podcast</a>.</li>
+      </ul>
     </header>
 
-    <div class="intro">
-      <p>Over the past decade, I've helped companies like <a href="https://mastra.ai">Mastra</a>, <a href="https://clerk.com">Clerk</a>, and <a href="#scrimba">Scrimba</a> reach developers where they are through technical video and written content that educates, engages, and converts.</p>
-      <p>I believe in a human-centred approach to developer marketing, focused on understanding the real challenges developers face. It's not about pushing products, but about helping solve problems that matter.</p>
+    <blockquote class="intro">
+      <div class="intro-text">
+        <p>I believe in a human-centred approach to developer marketing, focused on understanding the real challenges developers face. It's not about pushing products, but about helping solve problems that matter.</p>
+      </div>
+    </blockquote>
+
+    <div class="hero-spacer"></div>
+
+  </div>
+
+  <section class="videos">
+    <p class="section-label">Recent videos</p>
+    <div class="video-carousel">
+      <a href="https://youtu.be/1qnmnRICX50" target="_blank" rel="noopener" class="video-card">
+        <div class="video-thumb">
+          <img src="thumb-mastra.jpg" alt="Mastra 1.0 is here - Intro to Mastra" loading="lazy">
+          <div class="play-icon">
+            <svg viewBox="0 0 24 24" fill="currentColor"><path d="M8 5v14l11-7z"/></svg>
+          </div>
+        </div>
+        <p class="video-title">Mastra 1.0 is here – Intro to Mastra</p>
+      </a>
+      <a href="https://youtu.be/aORuNG8Tq_k" target="_blank" rel="noopener" class="video-card">
+        <div class="video-thumb">
+          <img src="thumb-mastra-hitl.jpg" alt="Master Human-in-the-Loop with Mastra" loading="lazy">
+          <div class="play-icon">
+            <svg viewBox="0 0 24 24" fill="currentColor"><path d="M8 5v14l11-7z"/></svg>
+          </div>
+        </div>
+        <p class="video-title">Master Human-in-the-Loop with Mastra</p>
+      </a>
+      <a href="https://youtu.be/0jg2g3sNvgw" target="_blank" rel="noopener" class="video-card">
+        <div class="video-thumb">
+          <img src="thumb-agents.jpg" alt="AI Agents vs. workflows, explained" loading="lazy">
+          <div class="play-icon">
+            <svg viewBox="0 0 24 24" fill="currentColor"><path d="M8 5v14l11-7z"/></svg>
+          </div>
+        </div>
+        <p class="video-title">AI Agents vs. workflows, explained</p>
+      </a>
+      <a href="https://youtu.be/QstMsE_HbgM" target="_blank" rel="noopener" class="video-card">
+        <div class="video-thumb">
+          <img src="thumb-clerk.jpg" alt="Add authentication to your Next.js app in 100 seconds with Clerk" loading="lazy">
+          <div class="play-icon">
+            <svg viewBox="0 0 24 24" fill="currentColor"><path d="M8 5v14l11-7z"/></svg>
+          </div>
+        </div>
+        <p class="video-title">Add authentication to your Next.js app in 100 seconds with Clerk</p>
+      </a>
+      <a href="https://youtu.be/zzOY9NdTyI0" target="_blank" rel="noopener" class="video-card">
+        <div class="video-thumb">
+          <img src="thumb-nascar.jpg" alt="How NASCAR broadcast realtime telemetry updates with Ably" loading="lazy">
+          <div class="play-icon">
+            <svg viewBox="0 0 24 24" fill="currentColor"><path d="M8 5v14l11-7z"/></svg>
+          </div>
+        </div>
+        <p class="video-title">How NASCAR broadcast realtime telemetry updates with Ably</p>
+      </a>
     </div>
+  </section>
+
+  <div class="container">
 
     <section class="services">
-      <p class="section-label">How I help</p>
+      <p class="section-label">What I do</p>
 
       <article class="service">
         <h3 class="service-title">Content creation</h3>
-        <p>I create educational content that reaches millions of developers through high-impact, unsaturated channels like YouTube. My work consistently ranks at the top of search results for valuable business keywords through effective SEO.</p>
+        <p>I create educational content for developer tools that reaches millions of developers through high-impact channels like YouTube, search, and LLMs. At Mastra, I lead developer documentation and produce content that ranks for high-value business keywords through effective SEO.</p>
       </article>
 
       <article class="service">
         <h3 class="service-title">Community and conversations</h3>
-        <p>I facilitate engaging conversations. Produced 171 episodes of the Scrimba Podcast, with a 100-week consecutive streak, reaching over 500K listens. At my previous company, Ably, I interviewed customers, like NASCAR, to create technical case studies developers actually engage with.</p>
+        <p>I facilitate engaging conversations. Produced 170 episodes of the Scrimba Podcast, with a 100-week consecutive streak, reaching over 500K listens. At my previous company, Ably, I interviewed customers, like NASCAR, to create technical case studies developers actually engage with.</p>
       </article>
 
       <article class="service">
@@ -359,8 +629,33 @@
     </section>
 
     <footer>
-      <p class="footer-text">Shoreditch, London</p>
+      <p class="footer-text"><span id="london-time"></span> London, UK</p>
     </footer>
   </div>
+  <script>
+    // London time
+    function updateLondonTime() {
+      const time = new Date().toLocaleTimeString('en-GB', {
+        timeZone: 'Europe/London',
+        hour: '2-digit',
+        minute: '2-digit'
+      });
+      document.getElementById('london-time').textContent = time;
+    }
+    updateLondonTime();
+    setInterval(updateLondonTime, 1000);
+
+    // Theme toggle
+    const toggle = document.querySelector('.theme-toggle');
+    const savedTheme = localStorage.getItem('theme') || 'dark';
+    document.documentElement.setAttribute('data-theme', savedTheme);
+
+    toggle.addEventListener('click', () => {
+      const current = document.documentElement.getAttribute('data-theme');
+      const next = current === 'dark' ? 'light' : 'dark';
+      document.documentElement.setAttribute('data-theme', next);
+      localStorage.setItem('theme', next);
+    });
+  </script>
 </body>
 </html>
